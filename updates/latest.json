@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.29.0",
- "date": "2026-11-04",
+ "version": "1.30.0",
+ "date": "2026-11-05",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode can send customer reports through GrailCrest: no email setup or password. Reports come from reports@grailcrest.app with your shop's name, and replies go to your email (Settings, Show mode, Email service: Send through GrailCrest). For GrailCrest Commercial.",
-  "Your current email settings stay as they are."
+  "Grade any card: on Grade a card (and on the phone) pick Pok\u00e9mon, Magic/One Piece/Lorcana or another game, Yu-Gi-Oh! or a sports card. Each is measured against its own size, so trimming is still caught",
+  "Only Pok\u00e9mon cards are recognized and priced for now. For other cards, type the name to get eBay sold links and type the prices in",
+  "Picked the wrong kind? Use Measure again as on the result. History shows each card's kind"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.29.0/resources.neu",
-  "size": 17437714,
-  "sha256": "2154069ca2b97ac46a9ff4d25203363d9f699beb01ea5e102ef62d8cbe6b481b"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.30.0/resources.neu",
+  "size": 17455794,
+  "sha256": "d33f2afacc5b0b4f56e3a13784229a0c603005b0cae4d57e009a128ba4c5c924"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "tsAbQcy/zFwFAW3bd2a/OlixyS5B6cesjnssyNyD6Y4F9AVkmf9NydL2tKkVaTgpYrRccqZU7rRJPaHMnguVFw=="
+ "sig": "NGBaaECKeFHhTTcT8pWX1elDz/5Nj8fTZunQkZTJXgg/hMyB3tEyy+17wZjYJrXNzcz69og2+ou0+ndhMw20AQ=="
 }
