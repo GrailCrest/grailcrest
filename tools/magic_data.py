@@ -5,7 +5,8 @@ Builds small files GrailCrest reads to recognize a Magic card from its scan and 
   magic/sets.json        every paper set: code -> [name, release date, base set size, total set size, type]
   magic/s/<CODE>.json    a set's cards: [number, name, rarity, finishes, tcgplayer, tcgplayer foil, card kingdom,
                          card kingdom foil, face name, language]
-  magic/n/<ab>.json      names starting with those two letters -> [name, [[set code, number], ...]], newest first
+  magic/n/<ab>.json      names starting with those two letters -> [name, [[set code, number, rarity, tcgplayer,
+                         tcgplayer foil, card kingdom, card kingdom foil(, language)], ...]], newest printing first
 Prices are today's retail prices in US dollars (TCGplayer market and Card Kingdom), as MTGJSON has them.
 
   python3 magic_data.py <out dir> [AllPrintings.json.xz] [AllPricesToday.json.gz]   (downloads them when not given)
@@ -85,7 +86,7 @@ def main():
                     if len(k) < 2:
                         k = (k + '__')[:2] if k else '__'
                     e = names.setdefault(k, [nm, []])
-                    e[1].append([code, r[0]])
+                    e[1].append([code, r[0], r[2], r[4], r[5], r[6], r[7]] + ([r[9]] if r[9] else []))
     # newest printings first
     date = {c: v[1] for c, v in sets.items()}
     shards = {}
