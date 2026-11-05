@@ -1,0 +1,35 @@
+# Magic card data for GrailCrest: rebuilt every day from MTGJSON (tools/magic_data.py) and published to the
+# magic-data branch, which the app reads to recognize Magic cards and show their prices.
+name: Magic card data
+on:
+  schedule:
+    - cron: '41 10 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/magic_data.py', '.github/workflows/magic-data.yml']
+permissions:
+  contents: write
+concurrency:
+  group: magic-data
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools
+          fetch-depth: 1
+      - run: pip install ijson==3.6.0
+      - run: mkdir -p work/out && python3 tools/magic_data.py work/out
+      - name: Publish to the magic-data branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd work/out
+          git init -q -b magic-data
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Magic card data $(date -u +%F) from MTGJSON"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" magic-data
