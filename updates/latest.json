@@ -1,0 +1,17 @@
+{
+ "app": "card-grader",
+ "version": "1.28.1",
+ "date": "2026-11-04",
+ "minShell": "6.10.0",
+ "notes": [
+  "Downloads and updates now come from GrailCrest's own GitHub page (GrailCrest/grailcrest). The installer is now called GrailCrest-Setup.exe.",
+  "Nothing changes for your cards, settings or license."
+ ],
+ "bundle": {
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.28.1/resources.neu",
+  "size": 17424426,
+  "sha256": "4cec3d18096ee72afc81bbdffd5ce7012d499b01120298692476473bc0c99e37"
+ },
+ "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
+ "sig": "VuuptwxdYuqHMy3KoY8pIccQv/xuQPsSjmrxvFPKhhUgWHLIknkwMV0L6hrh81UwUHp41wS4Dzbvh+7u48nzZQ=="
+}
