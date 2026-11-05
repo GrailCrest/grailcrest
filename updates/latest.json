@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.28.1",
+ "version": "1.29.0",
  "date": "2026-11-04",
  "minShell": "6.10.0",
  "notes": [
-  "Downloads and updates now come from GrailCrest's own GitHub page (GrailCrest/grailcrest). The installer is now called GrailCrest-Setup.exe.",
-  "Nothing changes for your cards, settings or license."
+  "Show mode can send customer reports through GrailCrest: no email setup or password. Reports come from reports@grailcrest.app with your shop's name, and replies go to your email (Settings, Show mode, Email service: Send through GrailCrest). For GrailCrest Commercial.",
+  "Your current email settings stay as they are."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.28.1/resources.neu",
-  "size": 17424426,
-  "sha256": "4cec3d18096ee72afc81bbdffd5ce7012d499b01120298692476473bc0c99e37"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.29.0/resources.neu",
+  "size": 17437714,
+  "sha256": "2154069ca2b97ac46a9ff4d25203363d9f699beb01ea5e102ef62d8cbe6b481b"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "VuuptwxdYuqHMy3KoY8pIccQv/xuQPsSjmrxvFPKhhUgWHLIknkwMV0L6hrh81UwUHp41wS4Dzbvh+7u48nzZQ=="
+ "sig": "tsAbQcy/zFwFAW3bd2a/OlixyS5B6cesjnssyNyD6Y4F9AVkmf9NydL2tKkVaTgpYrRccqZU7rRJPaHMnguVFw=="
 }
