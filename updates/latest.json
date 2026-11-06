@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.32.1",
+ "version": "1.32.2",
  "date": "2026-11-06",
  "minShell": "6.10.0",
  "notes": [
-  "GrailCrest Standard and Pro keys bought on Gumroad now unlock the app"
+  "Roger's promo cards: the stamp's ear is no longer a spot, foil sparkle isn't counted, 55/45 counts as a PSA 10, English names kept; Yu-Gi-Oh! set codes read better"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.1/resources.neu",
-  "size": 17526530,
-  "sha256": "151e681b69e4cdab01222a406d341246b2589b11954b8b187750ad552a2646e5"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.2/resources.neu",
+  "size": 17530686,
+  "sha256": "22b50a07199fc70e2e87db05f0485553a71b28642916034105fac0e832479e52"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "oNeGR23g153bklci8Ju26E5CARv4B3hH2pswP71bh+Wq02pxjTT97IdQ1zTA1+hiMVNb4TKggXPJQ0F1D1miwg=="
+ "sig": "SwYUiX6/uWulZPMQKat88TlcajB7+MOBvFjY8niqy6ujDaN+JzbbAXCF28XOzI2fT9djvEkh+un1urdbmm3bPQ=="
 }
