@@ -1,18 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.32.0",
- "date": "2026-11-05",
+ "version": "1.32.1",
+ "date": "2026-11-06",
  "minShell": "6.10.0",
  "notes": [
-  "Magic: The Gathering is its own card type: GrailCrest reads the set code and number at the bottom of the card (or its name), fills in the card, set and today's TCGplayer price (tick Foil for the foil price), and lists the printings to pick from when it can't tell",
-  "Sports cards can be recognized and priced from eBay sales, raw and graded, through GrailCrest (it switches on with GrailCrest's server)",
-  "A dark border on the black lid (or a white one on the white lid) that blends in isn't called a trim any more: GrailCrest says to scan it on the other background"
+  "GrailCrest Standard and Pro keys bought on Gumroad now unlock the app"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.0/resources.neu",
-  "size": 17526376,
-  "sha256": "72142aed101e6ef1cada2688c8a2f55fb7fea944e999a90bbf500349116c6f44"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.1/resources.neu",
+  "size": 17526530,
+  "sha256": "151e681b69e4cdab01222a406d341246b2589b11954b8b187750ad552a2646e5"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "R8F/H38weDEP07hu8Vp0Lmvnav4XkMDXcmRA7HvIdcTBHKBWepHDVUlqmziM4qq2/uR4nUgBSq/X/RHpC4Iy/g=="
+ "sig": "oNeGR23g153bklci8Ju26E5CARv4B3hH2pswP71bh+Wq02pxjTT97IdQ1zTA1+hiMVNb4TKggXPJQ0F1D1miwg=="
 }
