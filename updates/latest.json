@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.31.0",
+ "version": "1.32.0",
  "date": "2026-11-05",
  "minShell": "6.10.0",
  "notes": [
-  "Yu-Gi-Oh! cards are recognized from the scan: GrailCrest reads the set code, password or name, fills in the card's name, set and the printing's raw price from YGOPRODeck, and lets you pick the printing when it can't tell",
-  "Card pictures load through GrailCrest when TCGdex's picture server refuses them, so recognizing Pok\u00e9mon cards works on the phone again"
+  "Magic: The Gathering is its own card type: GrailCrest reads the set code and number at the bottom of the card (or its name), fills in the card, set and today's TCGplayer price (tick Foil for the foil price), and lists the printings to pick from when it can't tell",
+  "Sports cards can be recognized and priced from eBay sales, raw and graded, through GrailCrest (it switches on with GrailCrest's server)",
+  "A dark border on the black lid (or a white one on the white lid) that blends in isn't called a trim any more: GrailCrest says to scan it on the other background"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.31.0/resources.neu",
-  "size": 17487258,
-  "sha256": "0ec90796f042ac84c7ce432e21226a27cf8c7eab72b6534cc1c888970fade441"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.0/resources.neu",
+  "size": 17526376,
+  "sha256": "72142aed101e6ef1cada2688c8a2f55fb7fea944e999a90bbf500349116c6f44"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "eWJEcSASjtp2BNvsUto0wE5DjfwMgXMTse9bkRnon5qM81aT711LgV8cLyW+vprJTwBLm2SVtbuSgn35FdmxNQ=="
+ "sig": "R8F/H38weDEP07hu8Vp0Lmvnav4XkMDXcmRA7HvIdcTBHKBWepHDVUlqmziM4qq2/uR4nUgBSq/X/RHpC4Iy/g=="
 }
