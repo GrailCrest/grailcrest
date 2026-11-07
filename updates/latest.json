@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.32.2",
+ "version": "1.32.3",
  "date": "2026-11-06",
  "minShell": "6.10.0",
  "notes": [
-  "Roger's promo cards: the stamp's ear is no longer a spot, foil sparkle isn't counted, 55/45 counts as a PSA 10, English names kept; Yu-Gi-Oh! set codes read better"
+  "Scans on the white lid are no longer called blurry because of the card's shadow; grades are unchanged"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.2/resources.neu",
-  "size": 17530686,
-  "sha256": "22b50a07199fc70e2e87db05f0485553a71b28642916034105fac0e832479e52"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.3/resources.neu",
+  "size": 17533072,
+  "sha256": "cafa5bdba44f931f891944a68b4424ea221c9065cff4f5622321aa40c7036071"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "SwYUiX6/uWulZPMQKat88TlcajB7+MOBvFjY8niqy6ujDaN+JzbbAXCF28XOzI2fT9djvEkh+un1urdbmm3bPQ=="
+ "sig": "SvIYgYuoizsOLBR3i0EDxS53LyoNKXLDt7RwXnahQjmFWBaeg+4Wj1HDfUaxnCOTxBSk8FHvurM3zX+Q9tYLow=="
 }
