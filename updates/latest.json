@@ -1,16 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.32.7",
+ "version": "1.32.8",
  "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "Full arts and alt arts whose artwork runs right up to the border: when no frame line is found on a side, the border is now measured spot by spot along it, so their centering is measured instead of left out. The Centering tab still lets you check the lines."
+  "The Edges tab now says when your own light-check answer is what set the edges grade, and links to where you change it.",
+  "Looks fine by eye isn't offered on a scan where the card's edge wasn't found (a dark border on the black lid): those aren't the card's real corners.",
+  "A centering line found at only a few spots along its border (artwork or text that looks like a line) no longer counts against the grade; the result says which line to check in the Centering tab."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.7/resources.neu",
-  "size": 17561034,
-  "sha256": "2d1230b77a3c18599a9d973ae8b780dbfa5a30d45b608507a512b7d6b2e41b4d"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.8/resources.neu",
+  "size": 17564826,
+  "sha256": "23ae8f4f7272550c5add2d3dc142a6fb925bddd3b9352aa992a77c3ef990259d"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "XgKTxNYG0Txa4Wg7vGerOdftZKOEupp/3auUthXkN/0JD/4vBwNrt2dPgnVFRk2PAtElfIBdqVnMOJxiMTtzjw=="
+ "sig": "bfOqVYepbHr15CVgnb3FCw4QEQeGHhwlVUsOvX+PlVAmSpQqp6aDhicolL8BKZ+sKGt1X7nEIpMCwB6l9WK60w=="
 }
