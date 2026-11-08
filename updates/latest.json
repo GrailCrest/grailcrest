@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.32.5",
+ "version": "1.32.6",
  "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "Two scans of the same card, one put down upside down, are now turned to match before they're combined, so the second scan no longer evens out the centering or hides a corner mark.",
-  "Cards from new sets that don't have pictures in the card list yet (like Delta Reign) are recognised from their number, and cards scanned upside down are read the other way round."
+  "A Pok\u00e9mon card back scanned upside down is turned the right way up (the front already was, once the card is recognised).",
+  "Checked a corner or edge the scan marked, under a light, and it's clean? Click Looks fine by eye in the Corners or Edges tab: the grade leaves that spot out, and Undo puts it back. Your call is saved with the card."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.5/resources.neu",
-  "size": 17546576,
-  "sha256": "066523cf1d315bd1f44ed1aae46010a97fd07e2d12e42cabecf4e521a24f4871"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.6/resources.neu",
+  "size": 17554975,
+  "sha256": "24709eb6e49b6f8b600ce7cda25f87a1ab35c1774ddd6bec56c7cdc9a48132ed"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "di/+P3wWeMVE+aB6V8EenRv8Er3zSBqdFLE5HzV8WpJzDbq0sHkPZFtHCumpOTPJaPgZHOBFtvd7DpCUwu+ykQ=="
+ "sig": "LqVcWW2eI+8ug/E7T9f7zzTOhfATq1YYB0oMvFXk9azbuu0imye76VPGqWpu1ykJrphOFy44ZK3E/8CXJI3eEw=="
 }
