@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.32.4",
- "date": "2026-11-07",
+ "version": "1.32.5",
+ "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "Glitter borders: printed flakes at the edge aren't counted as whitening",
-  "Foil or grey showing at the corners of coloured borders on the white lid now counts as corner wear"
+  "Two scans of the same card, one put down upside down, are now turned to match before they're combined, so the second scan no longer evens out the centering or hides a corner mark.",
+  "Cards from new sets that don't have pictures in the card list yet (like Delta Reign) are recognised from their number, and cards scanned upside down are read the other way round."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.4/resources.neu",
-  "size": 17538711,
-  "sha256": "746323d6786fb62588ba13fc1b90152ebeb317d467e31f7dfe0a0538df6a8da1"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.5/resources.neu",
+  "size": 17546576,
+  "sha256": "066523cf1d315bd1f44ed1aae46010a97fd07e2d12e42cabecf4e521a24f4871"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "a+82auZnoPgPshwCodlBYg2IQ/gkY50AsiQ8/ITX+5E8VdXKGT+bDbLfct/ajJEQqD8RHy9s+IJ/wC9kDieyGw=="
+ "sig": "di/+P3wWeMVE+aB6V8EenRv8Er3zSBqdFLE5HzV8WpJzDbq0sHkPZFtHCumpOTPJaPgZHOBFtvd7DpCUwu+ykQ=="
 }
