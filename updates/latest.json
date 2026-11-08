@@ -1,16 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.32.3",
- "date": "2026-11-06",
+ "version": "1.32.4",
+ "date": "2026-11-07",
  "minShell": "6.10.0",
  "notes": [
-  "Scans on the white lid are no longer called blurry because of the card's shadow; grades are unchanged"
+  "Glitter borders: printed flakes at the edge aren't counted as whitening",
+  "Foil or grey showing at the corners of coloured borders on the white lid now counts as corner wear"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.3/resources.neu",
-  "size": 17533072,
-  "sha256": "cafa5bdba44f931f891944a68b4424ea221c9065cff4f5622321aa40c7036071"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.4/resources.neu",
+  "size": 17538711,
+  "sha256": "746323d6786fb62588ba13fc1b90152ebeb317d467e31f7dfe0a0538df6a8da1"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "SvIYgYuoizsOLBR3i0EDxS53LyoNKXLDt7RwXnahQjmFWBaeg+4Wj1HDfUaxnCOTxBSk8FHvurM3zX+Q9tYLow=="
+ "sig": "a+82auZnoPgPshwCodlBYg2IQ/gkY50AsiQ8/ITX+5E8VdXKGT+bDbLfct/ajJEQqD8RHy9s+IJ/wC9kDieyGw=="
 }
