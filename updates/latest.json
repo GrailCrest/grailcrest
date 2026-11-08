@@ -1,18 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.32.8",
+ "version": "1.33.0",
  "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "The Edges tab now says when your own light-check answer is what set the edges grade, and links to where you change it.",
-  "Looks fine by eye isn't offered on a scan where the card's edge wasn't found (a dark border on the black lid): those aren't the card's real corners.",
-  "A centering line found at only a few spots along its border (artwork or text that looks like a line) no longer counts against the grade; the result says which line to check in the Centering tab."
+  "New in Settings, off until you turn it on: Share my scans to improve GrailCrest. It sends the scan files of your own cards that came back from a grader (or every card you grade, if you choose), so GrailCrest can be checked and improved against real cards with real grades. Never the cards you grade for customers in Show mode. Take back my scans removes them all."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.8/resources.neu",
-  "size": 17564826,
-  "sha256": "23ae8f4f7272550c5add2d3dc142a6fb925bddd3b9352aa992a77c3ef990259d"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.0/resources.neu",
+  "size": 17575382,
+  "sha256": "a556f44cd580b0e2a994c1edc34643806338f15a831f95849489ef85778c7757"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "bfOqVYepbHr15CVgnb3FCw4QEQeGHhwlVUsOvX+PlVAmSpQqp6aDhicolL8BKZ+sKGt1X7nEIpMCwB6l9WK60w=="
+ "sig": "N9AN7cBSFPBDKs0byC8fFnSLd+EfYX/6AIDK8Kxj8KFI7LDu9p5P6AJaFuK0QOID4zPRtt55el3AJm4ACJ6jQA=="
 }
