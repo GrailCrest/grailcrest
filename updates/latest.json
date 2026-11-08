@@ -1,17 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.32.6",
+ "version": "1.32.7",
  "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "A Pok\u00e9mon card back scanned upside down is turned the right way up (the front already was, once the card is recognised).",
-  "Checked a corner or edge the scan marked, under a light, and it's clean? Click Looks fine by eye in the Corners or Edges tab: the grade leaves that spot out, and Undo puts it back. Your call is saved with the card."
+  "Full arts and alt arts whose artwork runs right up to the border: when no frame line is found on a side, the border is now measured spot by spot along it, so their centering is measured instead of left out. The Centering tab still lets you check the lines."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.6/resources.neu",
-  "size": 17554975,
-  "sha256": "24709eb6e49b6f8b600ce7cda25f87a1ab35c1774ddd6bec56c7cdc9a48132ed"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.32.7/resources.neu",
+  "size": 17561034,
+  "sha256": "2d1230b77a3c18599a9d973ae8b780dbfa5a30d45b608507a512b7d6b2e41b4d"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "LqVcWW2eI+8ug/E7T9f7zzTOhfATq1YYB0oMvFXk9azbuu0imye76VPGqWpu1ykJrphOFy44ZK3E/8CXJI3eEw=="
+ "sig": "XgKTxNYG0Txa4Wg7vGerOdftZKOEupp/3auUthXkN/0JD/4vBwNrt2dPgnVFRk2PAtElfIBdqVnMOJxiMTtzjw=="
 }
