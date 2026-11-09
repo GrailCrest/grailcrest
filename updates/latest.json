@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.34.1",
+ "version": "1.34.2",
  "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "The one-page summary opens on screen first, with Print or save as PDF and Close, instead of going straight to the printer. In My collection, the card names in Price watch open the card's full page. A card with no US price on the free price source no longer swings between its US and European price every week (and price watch no longer alerts on that switch). Value over time no longer shows a meaningless percentage when the first day was worth only a few cents."
+  "Settings, Your account: Change the email (your password, key, cards and signed-in devices all stay). A founder key now has its own Sign out of this computer button, and its device counts no longer say \"4 of 2\" (founder keys have no device limit)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.1/resources.neu",
-  "size": 17661533,
-  "sha256": "ca8a668fa6552bb262593e03cdac498b2e24a15b8beefa08ede76f6546884b66"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.2/resources.neu",
+  "size": 17666597,
+  "sha256": "f8b579c025dfcf5903c91a9bdfafe669dc2ad6e1219f3375e28df92ff1c548c6"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "7F4aZtA7eOAoTMLctYoTqdacFA91K1W5kxzJtJhBrN7L9yg19qQie83wLbBHqjHpzs6iQYuCDwO3c/8vRAGd3Q=="
+ "sig": "erxiFEIOLZtiSTCGptXTD0g9Gx67DGPn/XcR3PGobm3r+qMWC5btD6fQZWn2zoScDa2d+Egxd1NOjLJREkxpbQ=="
 }
