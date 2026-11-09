@@ -1,20 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.33.1",
- "date": "2026-11-08",
+ "version": "1.33.2",
+ "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "Centering on a card whose edge blends into the background on one side only (dark artwork at the top on the black lid, a silver edge on white): the other axis now counts in the grade, and a missing axis on such a card is measured spot by spot so the Centering tab has lines to check.",
-  "Before grading, the start page warns when a card's border will blend into the lid it was scanned on (white or silver on the white lid, dark on black) and says which lid to use instead.",
-  "History: a card-by-card table of your real grades against GrailCrest's estimates, widest misses first, with where each one missed.",
-  "One-page summary: one printable page on a card with its picture, GrailCrest's estimate beside the grade it came back with, the chance of each PSA grade and what it sells for at each grade, from the result page, History and the accuracy table.",
-  "Reports: each reason under What holds this card back shows its corner picture and links to the corner, edge or centering it talks about."
+  "Expedition, Aquapolis and Skyridge (e-Card era) cards are recognised from the dot-code strip and measured with their own rules: the wider left and bottom borders are by design, so centering is read past the e-Reader strips and the fading yellow isn't marked as a stain. Two cards that had no left/right centering before now measure near 50/50.",
+  "Phone 0.9.11: the one-page summary on each graded card, and How close the estimates are lists the cards one by one with where each missed."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.1/resources.neu",
-  "size": 17602332,
-  "sha256": "7a967cfdd49f97fa31d6bf9d3f9a7ffa104784f8124b2a301e5563602dca557c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.2/resources.neu",
+  "size": 17613126,
+  "sha256": "3c39e123ce86f95c7856ad2b015590432808462e3c5e275363df146c82b0ca52"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "rWtpa8Zrdd2bCtRBYDCnHPrg1GwmohKIiD1WFHJzRTLaZ1UhuNKvVGUetAHjER1LKEC5nfolXSaiU5iRAQr7Fg=="
+ "sig": "5fxEEmqyMK2vObJFn+kQH4VZG8MebEVxVfLSxQ/5/Ogag/bSM5JfVuklxLgioPvaezIvUWL9rABtkCNB7OtePQ=="
 }
