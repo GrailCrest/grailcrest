@@ -1,16 +1,20 @@
 {
  "app": "card-grader",
- "version": "1.33.0",
+ "version": "1.33.1",
  "date": "2026-11-08",
  "minShell": "6.10.0",
  "notes": [
-  "New in Settings, off until you turn it on: Share my scans to improve GrailCrest. It sends the scan files of your own cards that came back from a grader (or every card you grade, if you choose), so GrailCrest can be checked and improved against real cards with real grades. Never the cards you grade for customers in Show mode. Take back my scans removes them all."
+  "Centering on a card whose edge blends into the background on one side only (dark artwork at the top on the black lid, a silver edge on white): the other axis now counts in the grade, and a missing axis on such a card is measured spot by spot so the Centering tab has lines to check.",
+  "Before grading, the start page warns when a card's border will blend into the lid it was scanned on (white or silver on the white lid, dark on black) and says which lid to use instead.",
+  "History: a card-by-card table of your real grades against GrailCrest's estimates, widest misses first, with where each one missed.",
+  "One-page summary: one printable page on a card with its picture, GrailCrest's estimate beside the grade it came back with, the chance of each PSA grade and what it sells for at each grade, from the result page, History and the accuracy table.",
+  "Reports: each reason under What holds this card back shows its corner picture and links to the corner, edge or centering it talks about."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.0/resources.neu",
-  "size": 17575382,
-  "sha256": "a556f44cd580b0e2a994c1edc34643806338f15a831f95849489ef85778c7757"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.1/resources.neu",
+  "size": 17602332,
+  "sha256": "7a967cfdd49f97fa31d6bf9d3f9a7ffa104784f8124b2a301e5563602dca557c"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "N9AN7cBSFPBDKs0byC8fFnSLd+EfYX/6AIDK8Kxj8KFI7LDu9p5P6AJaFuK0QOID4zPRtt55el3AJm4ACJ6jQA=="
+ "sig": "rWtpa8Zrdd2bCtRBYDCnHPrg1GwmohKIiD1WFHJzRTLaZ1UhuNKvVGUetAHjER1LKEC5nfolXSaiU5iRAQr7Fg=="
 }
