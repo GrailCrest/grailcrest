@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.33.3",
+ "version": "1.34.0",
  "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "Before grading, the start page now warns when a card's dark artwork runs to the edge on the black lid (or a light edge blends into the white lid): it says which part of the rim can't be measured and to scan it on the other lid too, then press Same card to combine. A clean card on black stays silent. When no frame line can be found (full arts and alt arts: the picture runs to the edge) the note explains why, that the axis isn't counted against the grade, and how to set the lines in the Centering tab. Phone: the dark-surface advice no longer says to use something dark when the card is already on black."
+  "The surface check before the grade now comes only when the surface decides it (the scan says 9 or better): a card an edge already holds at 7 shows its grade straight away. When it comes, a photo under a lamp is the first step: the app lines it up with the scan, circles what it finds and fills in the checklist; the checklist by eye is still there. A card graded on black and then scanned on the white lid within 20 minutes is combined on its own, no button first (the app sees it's the same card), with Keep them separate. One line under the grade says what sets it and whether anything can be done about it (a wipe and a rescan, a look by eye, or nothing: it's on the card). With several cards on the bed, Grade all N cards is the main button."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.33.3/resources.neu",
-  "size": 17616263,
-  "sha256": "b86d6fea5aca2c6006e163bd014d0031e26ade48263aa1af0d1e8d3dc04c2c3a"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.0/resources.neu",
+  "size": 17646472,
+  "sha256": "499c783473cb30381e2aa85f35fa311af6ca8cec410c337e7450fff9b5c2c9a4"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "//gfZ0TKEEjF20Xi9//Fp06WeDdRAEdD7uxKgTTU2Qjc8AF4OQKu4VRj735roVr7LM7O/Sb9Bu9s/eDHoXxVuQ=="
+ "sig": "+gAjd4kIqYRokGIJjIMXXeTPSrXD/7r0Aseifgj+Te7XfoB99bDJGA/khr0jdAm8Ruofig8tAR75/a4fctXE2g=="
 }
