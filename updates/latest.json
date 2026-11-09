@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.34.0",
+ "version": "1.34.1",
  "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "The surface check before the grade now comes only when the surface decides it (the scan says 9 or better): a card an edge already holds at 7 shows its grade straight away. When it comes, a photo under a lamp is the first step: the app lines it up with the scan, circles what it finds and fills in the checklist; the checklist by eye is still there. A card graded on black and then scanned on the white lid within 20 minutes is combined on its own, no button first (the app sees it's the same card), with Keep them separate. One line under the grade says what sets it and whether anything can be done about it (a wipe and a rescan, a look by eye, or nothing: it's on the card). With several cards on the bed, Grade all N cards is the main button."
+  "The one-page summary opens on screen first, with Print or save as PDF and Close, instead of going straight to the printer. In My collection, the card names in Price watch open the card's full page. A card with no US price on the free price source no longer swings between its US and European price every week (and price watch no longer alerts on that switch). Value over time no longer shows a meaningless percentage when the first day was worth only a few cents."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.0/resources.neu",
-  "size": 17646472,
-  "sha256": "499c783473cb30381e2aa85f35fa311af6ca8cec410c337e7450fff9b5c2c9a4"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.1/resources.neu",
+  "size": 17661533,
+  "sha256": "ca8a668fa6552bb262593e03cdac498b2e24a15b8beefa08ede76f6546884b66"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "+gAjd4kIqYRokGIJjIMXXeTPSrXD/7r0Aseifgj+Te7XfoB99bDJGA/khr0jdAm8Ruofig8tAR75/a4fctXE2g=="
+ "sig": "7F4aZtA7eOAoTMLctYoTqdacFA91K1W5kxzJtJhBrN7L9yg19qQie83wLbBHqjHpzs6iQYuCDwO3c/8vRAGd3Q=="
 }
