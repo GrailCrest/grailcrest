@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.34.3",
+ "version": "1.34.4",
  "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "Odds & value: a Japanese card typed with its English name finds the Japanese card now. When no English card has the number and set size typed (Altaria 074/068), GrailCrest looks in the Japanese sets and offers the Japanese card, with its picture, and prices it as a Japanese card.",
-  "Backs: a piece of the surface torn off (bare white card stock showing in the blue border) now counts as surface damage, about a PSA 4. It was missed before because the back's dotted border read as printed design."
+  "Backs: a scuff, stain or long scratch on a blue back now counts toward the surface grade. Before, a back whose border was busy with tiny print dots and dust specks had every mark on it ignored. Small light specks there still don't count (they're usually dust on the glass).",
+  "Odds & value: a Japanese card typed with its English name and number (Altaria 074/068) finds the Japanese card. Backs: torn-off surface counts as damage (about a PSA 4)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.3/resources.neu",
-  "size": 17673615,
-  "sha256": "b7a905e4cb067b6e48cbdead462bfe60ee12303ba7b0e7f4a34e8078a94bb07b"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.4/resources.neu",
+  "size": 17675425,
+  "sha256": "c8318020350af5a5ae6a81d92f5a341a9541e6d4498ee9b0554b68231be7fda1"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "04fhRN70L+UKVs1JB6XI5fAL7XxbQisQ+tfdJodHF2Apvur25ijHES6sLwAuuUDeXykEIEfE2CuvD8XXH8CXVQ=="
+ "sig": "6sUEvnMfmgxTMbt8oxYOytNeIxUin8fS5N+G4uGFqNckzFvodbURAccTrg71BL9Q6PPErGudT/5GpwaRURhLgw=="
 }

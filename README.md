@@ -4,7 +4,7 @@ Grade your Pokémon cards from a scan before you pay to have them graded. Websit
 
 ## Download (Windows)
 
-**[Download GrailCrest 1.34.3 for Windows](https://github.com/GrailCrest/grailcrest/raw/main/downloads/GrailCrest-Setup.exe)** (installer, about 14 MB). Already have it? It updates itself.
+**[Download GrailCrest 1.34.4 for Windows](https://github.com/GrailCrest/grailcrest/raw/main/downloads/GrailCrest-Setup.exe)** (installer, about 14 MB). Already have it? It updates itself.
 
 ## Updates
 
