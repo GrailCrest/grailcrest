@@ -1,17 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.34.5",
+ "version": "1.34.6",
  "date": "2026-11-10",
  "minShell": "6.10.0",
  "notes": [
-  "Send to GrailCrest: when something looks wrong on a card's page, under a price search, or in How grading works, tell us in a line and the app sends its scans and what it found, so we can fix it.",
-  "Yu-Gi-Oh! cards: a name read with a stray mark in front (like 'MAGICOLLOIDAL SOL) is found again, and the card's number is read more often."
+  "Yu-Gi-Oh! card backs: centering is now measured on both sides. The tan border fades into the swirl with no line between them, so each side is measured to the middle of that fade.",
+  "Phone photos: a band of shadow on the table along a card's edge is no longer taken for part of the card."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.5/resources.neu",
-  "size": 17711850,
-  "sha256": "def784feddeb02ceb9336c41e9f36466b04b9c986494b8f64e79b797912b54f9"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.6/resources.neu",
+  "size": 17724914,
+  "sha256": "d32d4dcdf5587871034d147c936a8aeea32bca5f20c47b9ae852c709f353ff47"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "0f2KpB31WEokmNYw2lBlPkCfN8NvBZQ+cTN7y9IKjhuYbccjyQ8PV/2/3rhLY9zrpwNllJms+yxgi19YWkXZ5Q=="
+ "sig": "hlPKZwmUI+3Yw+KwRsHtFjmNw+m6eGkSK74ulw+dxGeLw2xAZv9VlMgShk1b4HpstvpV6gJgfXZIe7EPJDmHpA=="
 }
