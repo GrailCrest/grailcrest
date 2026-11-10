@@ -1,16 +1,17 @@
 {
  "app": "card-grader",
- "version": "1.34.2",
+ "version": "1.34.3",
  "date": "2026-11-09",
  "minShell": "6.10.0",
  "notes": [
-  "Settings, Your account: Change the email (your password, key, cards and signed-in devices all stay). A founder key now has its own Sign out of this computer button, and its device counts no longer say \"4 of 2\" (founder keys have no device limit)."
+  "Odds & value: a Japanese card typed with its English name finds the Japanese card now. When no English card has the number and set size typed (Altaria 074/068), GrailCrest looks in the Japanese sets and offers the Japanese card, with its picture, and prices it as a Japanese card.",
+  "Backs: a piece of the surface torn off (bare white card stock showing in the blue border) now counts as surface damage, about a PSA 4. It was missed before because the back's dotted border read as printed design."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.2/resources.neu",
-  "size": 17666597,
-  "sha256": "f8b579c025dfcf5903c91a9bdfafe669dc2ad6e1219f3375e28df92ff1c548c6"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.3/resources.neu",
+  "size": 17673615,
+  "sha256": "b7a905e4cb067b6e48cbdead462bfe60ee12303ba7b0e7f4a34e8078a94bb07b"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "erxiFEIOLZtiSTCGptXTD0g9Gx67DGPn/XcR3PGobm3r+qMWC5btD6fQZWn2zoScDa2d+Egxd1NOjLJREkxpbQ=="
+ "sig": "04fhRN70L+UKVs1JB6XI5fAL7XxbQisQ+tfdJodHF2Apvur25ijHES6sLwAuuUDeXykEIEfE2CuvD8XXH8CXVQ=="
 }
