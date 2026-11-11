@@ -1,17 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.34.6",
- "date": "2026-11-10",
+ "version": "1.35.0",
+ "date": "2026-11-11",
  "minShell": "6.10.0",
  "notes": [
-  "Yu-Gi-Oh! card backs: centering is now measured on both sides. The tan border fades into the swirl with no line between them, so each side is measured to the middle of that fade.",
-  "Phone photos: a band of shadow on the table along a card's edge is no longer taken for part of the card."
+  "New Surface Lab in the Surface tab: every flagged mark blown up, a scratch trace map, raking light you can swing around, a loupe and a before/after slider",
+  "Works on the scan, or on your lamp photo when you add one",
+  "Only changes what you see: no grades change"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.34.6/resources.neu",
-  "size": 17724914,
-  "sha256": "d32d4dcdf5587871034d147c936a8aeea32bca5f20c47b9ae852c709f353ff47"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.35.0/resources.neu",
+  "size": 17765723,
+  "sha256": "51392b4b3028f9c060fb02079617adca9e2602b7198d53cf5b3c43a70b9b9b03"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "hlPKZwmUI+3Yw+KwRsHtFjmNw+m6eGkSK74ulw+dxGeLw2xAZv9VlMgShk1b4HpstvpV6gJgfXZIe7EPJDmHpA=="
+ "sig": "XHetbH8ylQAS8ahjK0GazyWXVFEPC3pl4GgapVnonjYpICzeaTCZQLtZXVxK0SMStMuOtMTULHa6zXmheP77jw=="
 }
