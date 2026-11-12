@@ -1,19 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.0",
+ "version": "1.36.1",
  "date": "2026-11-12",
  "minShell": "6.10.0",
  "notes": [
-  "My collection has a new look at the top: what your collection is worth now, a value chart you can drag across (1W to 1Y and All), and your most valuable cards beside it.",
-  "New Performance tab: how much you're up or down on the cards where you entered what you paid.",
-  "Your cards can show as pictures or as the list (Pictures or List, next to Sort by).",
-  "Price history is now kept for 13 months instead of 4, so the chart can go back a year."
+  "Cards with a letter in their number, like Rayquaza GX 177a/168 (alternate-art promos), are now found: type the name and number and the prices fill in."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.0/resources.neu",
-  "size": 17837806,
-  "sha256": "1a7e0e9a09df2fbd4e8d17c24a8ab45c6c98563b63dcd2d1b0f9fdaecd12618c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.1/resources.neu",
+  "size": 17839396,
+  "sha256": "0b7e32811666c6a59aaa955f9595915418cbe110f8ea778ecf61cf7b102242e7"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "ViUddurkWLt996kAB+9meGhjZk1rr9vrpaZG3EpF8Uu9qSMRcFTxBmf5ZK3FXDE0+Wnspl6SzdqO6js69PgtGg=="
+ "sig": "PIFd44HugPsoW5qiP1oeFaxrFDbuNp0jAPIIJEvAkiTiarZhLVC1MY8j2ZQUR033WUvFyEJWksPhtHJA+SEcfw=="
 }
