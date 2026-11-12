@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.1",
+ "version": "1.36.2",
  "date": "2026-11-12",
  "minShell": "6.10.0",
  "notes": [
-  "Cards with a letter in their number, like Rayquaza GX 177a/168 (alternate-art promos), are now found: type the name and number and the prices fill in."
+  "The collection chart has a 1D button: the change since the last price before today's."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.1/resources.neu",
-  "size": 17839396,
-  "sha256": "0b7e32811666c6a59aaa955f9595915418cbe110f8ea778ecf61cf7b102242e7"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.2/resources.neu",
+  "size": 17839530,
+  "sha256": "68656a7768a825faad2e7868037d8adeb83f06f9143b7b5b2d5751a3665d41f6"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "PIFd44HugPsoW5qiP1oeFaxrFDbuNp0jAPIIJEvAkiTiarZhLVC1MY8j2ZQUR033WUvFyEJWksPhtHJA+SEcfw=="
+ "sig": "xs/XuCc0P6hXj9VkA1Q6HjtlY94Us6zn/jNyIFG9/dHNl2hbCA+YWoJ4tA4mdcHhDBWV0EPmDH3MC0JDV0dIQQ=="
 }
