@@ -1,18 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.35.0",
+ "version": "1.35.1",
  "date": "2026-11-11",
  "minShell": "6.10.0",
  "notes": [
-  "New Surface Lab in the Surface tab: every flagged mark blown up, a scratch trace map, raking light you can swing around, a loupe and a before/after slider",
-  "Works on the scan, or on your lamp photo when you add one",
-  "Only changes what you see: no grades change"
+  "The Surface tab's new views have plain names: Flagged marks, Scratch map, Side light, Magnifier and Compare",
+  "They help you look, but the surface is still graded by hand: check the card under a bright light and answer the checklist honestly",
+  "No grades change"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.35.0/resources.neu",
-  "size": 17765723,
-  "sha256": "51392b4b3028f9c060fb02079617adca9e2602b7198d53cf5b3c43a70b9b9b03"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.35.1/resources.neu",
+  "size": 17767972,
+  "sha256": "d70cf50fd38094cfbf6bb77e39d87c361cd9e3e03663dbaf14c90d0306d32a7d"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "XHetbH8ylQAS8ahjK0GazyWXVFEPC3pl4GgapVnonjYpICzeaTCZQLtZXVxK0SMStMuOtMTULHa6zXmheP77jw=="
+ "sig": "mfWzQnSo1w2LrKz418ylUFnKIuDIJRoNk9tS0zQK7XMqPjTJ+n8DblXGC9GngibNtfej07NsKDHpgFx/mvSeEg=="
 }
