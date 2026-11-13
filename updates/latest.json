@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.5",
+ "version": "1.36.6",
  "date": "2026-11-13",
  "minShell": "6.10.0",
  "notes": [
-  "Phone photos: fixed the card's outline sometimes being traced crooked (seen on silver foil borders on a wood table), which showed marks on the edge and border that weren't there. Scans grade as before."
+  "Phone photos: corners too blurry to see clearly are left out instead of read as wear (a photo focused on one end made the other end's corners look worn)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.5/resources.neu",
-  "size": 17144297,
-  "sha256": "b0a010cb470cb1b14b95a23b2a4d46818f3b2840480ef6d31008de955b206637"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.6/resources.neu",
+  "size": 17144613,
+  "sha256": "7146f32dd992bb50a2faf414b27bac3cbdc450249379dd92400301af38c46df0"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "wDWE+gStk3fYzi4ZzGH9dgjGahoY+vl6XXGqmdAFRceE2Pb0tCv9NosXPKEoGI8ImDjuJpiww6ZxZKQ5S4kCMQ=="
+ "sig": "Kt5s1IT5Q+ESkzinPLvESMXtdxt0mGRs9qDiNiq1d9X/vzNVi2EspBhVFBD2ch0jysyzMIZpBCzfmBD25wV+5g=="
 }
