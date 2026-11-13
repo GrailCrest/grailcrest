@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.6",
+ "version": "1.36.7",
  "date": "2026-11-13",
  "minShell": "6.10.0",
  "notes": [
-  "Phone photos: corners too blurry to see clearly are left out instead of read as wear (a photo focused on one end made the other end's corners look worn)."
+  "A card on a grey or wood table no longer gets a wrong low grade from a misread border on phone photos."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.6/resources.neu",
-  "size": 17144613,
-  "sha256": "7146f32dd992bb50a2faf414b27bac3cbdc450249379dd92400301af38c46df0"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.7/resources.neu",
+  "size": 17146118,
+  "sha256": "c8a0b987e56c25f630b22e2b73db39e3fe3947ebf04553b6377c02d71d90c297"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "Kt5s1IT5Q+ESkzinPLvESMXtdxt0mGRs9qDiNiq1d9X/vzNVi2EspBhVFBD2ch0jysyzMIZpBCzfmBD25wV+5g=="
+ "sig": "1vaDDoN2tedleu3C/azjmTzj6oChD3lZnqsytJHMl5VLharZVcgmmP3KSq+GOZuWRSK0HOndqM13ma8eqVVv4A=="
 }
