@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.2",
+ "version": "1.36.3",
  "date": "2026-11-12",
  "minShell": "6.10.0",
  "notes": [
-  "The collection chart has a 1D button: the change since the last price before today's."
+  "My collection: the Keep and Send to PSA tags on card pictures are easier to read."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.2/resources.neu",
-  "size": 17839530,
-  "sha256": "68656a7768a825faad2e7868037d8adeb83f06f9143b7b5b2d5751a3665d41f6"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.3/resources.neu",
+  "size": 17839626,
+  "sha256": "4e86976419374c2d42c6502683848a923432654d2d11ffc872c7e8123e816252"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "xs/XuCc0P6hXj9VkA1Q6HjtlY94Us6zn/jNyIFG9/dHNl2hbCA+YWoJ4tA4mdcHhDBWV0EPmDH3MC0JDV0dIQQ=="
+ "sig": "bOLgsuYCptDMEYdoAIuM+OuhHEG5KAO/NbEqyCDiokTjSNq+hn3246OdIEm2jX0wqfF4YgthrMbCacZDGvDdKg=="
 }
