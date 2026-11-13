@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.3",
- "date": "2026-11-12",
+ "version": "1.36.4",
+ "date": "2026-11-13",
  "minShell": "6.10.0",
  "notes": [
-  "My collection: the Keep and Send to PSA tags on card pictures are easier to read."
+  "The app's code is now compressed, so updates download a little smaller. No change to grading or features."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.3/resources.neu",
-  "size": 17839626,
-  "sha256": "4e86976419374c2d42c6502683848a923432654d2d11ffc872c7e8123e816252"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.4/resources.neu",
+  "size": 17141552,
+  "sha256": "26180122a388ee2268213f858558cbbfd9f150d5012f2760ca76e11bc90f1d3b"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "bOLgsuYCptDMEYdoAIuM+OuhHEG5KAO/NbEqyCDiokTjSNq+hn3246OdIEm2jX0wqfF4YgthrMbCacZDGvDdKg=="
+ "sig": "UIuyX11Q4yZ1FvidLryaBtqM0SgoC1mwAryLMviKIngkm+3xSzUtg32nQif0l0FkY69pABYtMfaQ+NJLjTfywA=="
 }
