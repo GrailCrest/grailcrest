@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.11",
+ "version": "1.36.12",
  "date": "2026-11-14",
  "minShell": "6.10.0",
  "notes": [
-  "Ticking 'I looked at the surface under a bright light' with nothing wrong now counts: the marks the scan found on the surface are left out of the grade (mark any flaw you see and they count again)."
+  "Grade as I scan no longer stops picking up new scans: a scan opened on Grade a card no longer makes the next scanned card get dropped, and each scan file is taken once."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.11/resources.neu",
-  "size": 17161140,
-  "sha256": "d14840d4cfa233732c79c530f687391dd8332dd16c6a7905b97f0b1ec4177b7c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.12/resources.neu",
+  "size": 17161779,
+  "sha256": "ad999a0ccd07011701d3ae065bd290dca216bd27c460508b0f1950a69c24bfb3"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "OOD9U+ndXCr+9eA3/LUJi7vlkhgSC9TF9xlwWcq0QJYWoLcRG1iAtx7wE9WBSoe2lIRj1lkJRIpMaZxbJPt0Gg=="
+ "sig": "qcc1NoL7ED+GSHH/9PIuGEjAjDuj7mkHMYbWTXQc0nNTjEQEoehPct4znte9ot5hRuQ4eMVhsdUICg8PCt6Q2A=="
 }
