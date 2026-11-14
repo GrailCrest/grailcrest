@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.8",
+ "version": "1.36.9",
  "date": "2026-11-14",
  "minShell": "6.10.0",
  "notes": [
-  "You can now change any grade by hand on a card's page (PSA, Beckett, CGC and the Beckett subgrades): open 'Change the grades by hand' under the grades."
+  "Opening a card's Details in History no longer squeezes them into a narrow column."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.8/resources.neu",
-  "size": 17158473,
-  "sha256": "7eb23a96e65b10e57909ed68539330615862771fbd82fcd3db9d6e959e65d60f"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.9/resources.neu",
+  "size": 17158709,
+  "sha256": "ad3941c1df280886637a0f59dab25211d0b95340b8e5c22f661e3c1020fcc4c9"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "cvoZkH3cCnV3o6LgSeh8/75WyFSeVxHNaKYrebLFJYoTWY2Ixj06e5+R0u9WNnu32Grg9JmqQ50AyLUr7JntOw=="
+ "sig": "F1of5BA9EApxJCPVggwfu389aeOp1a1s64WoKPwdubOUp9+t8e/FUl958m1G+jz0Z4kGwuHSm3wQuY/qQ/DaHQ=="
 }
