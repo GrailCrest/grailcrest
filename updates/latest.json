@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.9",
+ "version": "1.36.10",
  "date": "2026-11-14",
  "minShell": "6.10.0",
  "notes": [
-  "Opening a card's Details in History no longer squeezes them into a narrow column."
+  "New button under What holds this card back: 'Checked by eye: it all looks fine' leaves the corners, edges and surface the scan marked out of the grade (centering still counts). Undo puts it back."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.9/resources.neu",
-  "size": 17158709,
-  "sha256": "ad3941c1df280886637a0f59dab25211d0b95340b8e5c22f661e3c1020fcc4c9"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.10/resources.neu",
+  "size": 17160525,
+  "sha256": "5f245af68fd1bdf24f2e87d6d06d381202aafa60c2db02e8d9f64d5b85094c80"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "F1of5BA9EApxJCPVggwfu389aeOp1a1s64WoKPwdubOUp9+t8e/FUl958m1G+jz0Z4kGwuHSm3wQuY/qQ/DaHQ=="
+ "sig": "W0EEGROrWzwOJrLu1EjnoIr+J4EFwryADpZW4djNtso9ZZxhuAaKzGSIxnO6uj8sF06cTMrlF84TE2FksSFY4A=="
 }
