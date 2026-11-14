@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.12",
+ "version": "1.36.13",
  "date": "2026-11-14",
  "minShell": "6.10.0",
  "notes": [
-  "Grade as I scan no longer stops picking up new scans: a scan opened on Grade a card no longer makes the next scanned card get dropped, and each scan file is taken once."
+  "Several copies of the same card scanned one after another (three customers' Lugias) are now graded as separate cards; a second scan is only combined with a card when it really is that card scanned again on the other background."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.12/resources.neu",
-  "size": 17161779,
-  "sha256": "ad999a0ccd07011701d3ae065bd290dca216bd27c460508b0f1950a69c24bfb3"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.13/resources.neu",
+  "size": 17162715,
+  "sha256": "cb33a26d637c2b6f24e4a9cd323a8f7ab0677349cd8ed76193f749fe51cf4715"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "qcc1NoL7ED+GSHH/9PIuGEjAjDuj7mkHMYbWTXQc0nNTjEQEoehPct4znte9ot5hRuQ4eMVhsdUICg8PCt6Q2A=="
+ "sig": "kcMT0ns1w/26e9W8Kfy9XG0eFUKap6CWe1covGSvAKWWOQZOpyOuOpcFiaaIwfnn/vUc4BMLAMzJyBMQ5Y0r1w=="
 }
