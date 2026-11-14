@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.7",
- "date": "2026-11-13",
+ "version": "1.36.8",
+ "date": "2026-11-14",
  "minShell": "6.10.0",
  "notes": [
-  "A card on a grey or wood table no longer gets a wrong low grade from a misread border on phone photos."
+  "You can now change any grade by hand on a card's page (PSA, Beckett, CGC and the Beckett subgrades): open 'Change the grades by hand' under the grades."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.7/resources.neu",
-  "size": 17146118,
-  "sha256": "c8a0b987e56c25f630b22e2b73db39e3fe3947ebf04553b6377c02d71d90c297"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.8/resources.neu",
+  "size": 17158473,
+  "sha256": "7eb23a96e65b10e57909ed68539330615862771fbd82fcd3db9d6e959e65d60f"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "1vaDDoN2tedleu3C/azjmTzj6oChD3lZnqsytJHMl5VLharZVcgmmP3KSq+GOZuWRSK0HOndqM13ma8eqVVv4A=="
+ "sig": "cvoZkH3cCnV3o6LgSeh8/75WyFSeVxHNaKYrebLFJYoTWY2Ixj06e5+R0u9WNnu32Grg9JmqQ50AyLUr7JntOw=="
 }
