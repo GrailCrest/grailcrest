@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.15",
+ "version": "1.36.16",
  "date": "2026-11-15",
  "minShell": "6.10.0",
  "notes": [
-  "PSA's November 2026 prices: Value is back at $39.99 (90-100 business days), Standard $59.99 now about 70-80 business days, Priority 50-60; turnaround shown for each service level. Plus the training examples from 1.36.14."
+  "Raw condition: NM, LP, MP, HP or DMG buttons on each card (TCGplayer's scale), with the app's guess; shown in History and on the customer's report. The grade doesn't change."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.15/resources.neu",
-  "size": 17171133,
-  "sha256": "88da817f1adfdae522854cafec7d07f19ef3f4411c4f851a15da0304501e2965"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.16/resources.neu",
+  "size": 17173067,
+  "sha256": "edb3bbb7a0ab8943bd78afdc4b48e1ee67703fcf4f48ce7e6db01a1b9ef11ac5"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "087ZMi9Mf+SnKIv8P7ZS5Zd7Xh7ZZMszQtYfqmJcAzENyKAbwxvGZt+xCR3R7oeVI9fOYcl1351LthHNXqO9iQ=="
+ "sig": "8iz2aqy3ypKfiMY6+c2FkVpixbYhiJxbDza8v8HRM+lzeflUbsTzcoJlv35ezqReE2qBKEM7Wui6z/UoMVnp4g=="
 }
