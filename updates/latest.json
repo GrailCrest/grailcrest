@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.14",
+ "version": "1.36.15",
  "date": "2026-11-15",
  "minShell": "6.10.0",
  "notes": [
-  "Training examples for GrailCrest's own AI: Clean and Worn on every corner and edge (saved for training, the grade doesn't change), and each graded card's corner and edge close-ups saved in your user folder under GrailCrest Training. Founder copies only."
+  "PSA's November 2026 prices: Value is back at $39.99 (90-100 business days), Standard $59.99 now about 70-80 business days, Priority 50-60; turnaround shown for each service level. Plus the training examples from 1.36.14."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.14/resources.neu",
-  "size": 17170511,
-  "sha256": "af321baf8770fcac06185383a4041440b30a7099c0fdc5d12f86faafd3050695"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.15/resources.neu",
+  "size": 17171133,
+  "sha256": "88da817f1adfdae522854cafec7d07f19ef3f4411c4f851a15da0304501e2965"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "/Ml8gbiuLkZuCITbKY8tCTy5PyPt6KSGpcH7uM0MRixwgbKxj4zK9vCv3pzwTyNXeJsHeJDAGn+uHNywbFqt6g=="
+ "sig": "087ZMi9Mf+SnKIv8P7ZS5Zd7Xh7ZZMszQtYfqmJcAzENyKAbwxvGZt+xCR3R7oeVI9fOYcl1351LthHNXqO9iQ=="
 }
