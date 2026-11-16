@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.22",
+ "version": "1.36.23",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Scan from the app: the TWAIN way goes first, with a small GrailCrest window in the middle of the screen while it scans, so the scanner's own messages show; no extra PowerShell window."
+  "Cards scanned from the app are recognized and named again (their file names had been taken as the name). A Canon scanner that refuses now says to check its lock switch."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.22/resources.neu",
-  "size": 17223490,
-  "sha256": "3e00de933c6eb22284ebfb2ea634c52fd63d362fe1e675b76fd3406ad9e5772d"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.23/resources.neu",
+  "size": 17223705,
+  "sha256": "443bd674a3356009dc4d4f053665a14392e674a6b2d4d9c895b53e89e4bd6ff6"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "4uHgehBKYAoZ2FvIvM4A61mfi9MarCHx1tc6fmqFNGliiDZU6Z1ZkHZBz7s5PM5IJV+64/eWBwVJo5QdZSFqaA=="
+ "sig": "YOoGEYbQqsaOs8phd3dChQDbi1G1ObNx7GOlVgbvmbeUV1+vqhMh4+kkSdqjguhR7wTpGOIhLw7yE2ZAs1dMsg=="
 }
