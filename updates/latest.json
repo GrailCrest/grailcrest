@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.26",
+ "version": "1.36.27",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Teach the AI shows each card's name and pictures (from History), so you can see which card you're teaching."
+  "Several cards on one scan: each card now gets its own back when you turn the cards over where they lie (the cards left and right of the middle used to swap backs)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.26/resources.neu",
-  "size": 17242620,
-  "sha256": "a23dc7149547f26acf4cf816abdb55baeb00aeaca9e2a3f9bf967f7fa882dbfb"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.27/resources.neu",
+  "size": 17242804,
+  "sha256": "07ca4847fe9e9adea9adbd929211ed7a008cd5ffad6e66b7812f357b162ac223"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "o8a9b0yX8ZNergxepa5AAhCtyxBpipPZFkVlG46Ze8Gg8WyaTF4Lcv5B/B+MPoa/JySeFJS5a4y0psY1+FS6HQ=="
+ "sig": "jB2Dow1VaV/UM8lVBYf9Z2734Zv37u6I4ZNg66R35ANRuzprT+nlJt645FPUEbvcKA+oOEvs5DlEFtz1DEdFQw=="
 }
