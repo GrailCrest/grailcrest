@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.21",
+ "version": "1.36.22",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Scan from the app: adds the TWAIN way, the same way Canon's IJ Scan Utility and other scanner apps scan, for scanners whose Windows driver refuses."
+  "Scan from the app: the TWAIN way goes first, with a small GrailCrest window in the middle of the screen while it scans, so the scanner's own messages show; no extra PowerShell window."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.21/resources.neu",
-  "size": 17222176,
-  "sha256": "e0801155898c91d6bafac9bff07bb5bc3e21323a560a428e0a4de9a19beed3a8"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.22/resources.neu",
+  "size": 17223490,
+  "sha256": "3e00de933c6eb22284ebfb2ea634c52fd63d362fe1e675b76fd3406ad9e5772d"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "EO/AAqxqaANZuSFWU2tI8b/ZAaa7Xiz4tiywlz0eXCotgGgZ9QJwDM3l9zEj8o051rr79YLV0jkPhHNbTpJEeA=="
+ "sig": "4uHgehBKYAoZ2FvIvM4A61mfi9MarCHx1tc6fmqFNGliiDZU6Z1ZkHZBz7s5PM5IJV+64/eWBwVJo5QdZSFqaA=="
 }
