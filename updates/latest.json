@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.16",
- "date": "2026-11-15",
+ "version": "1.36.17",
+ "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Raw condition: NM, LP, MP, HP or DMG buttons on each card (TCGplayer's scale), with the app's guess; shown in History and on the customer's report. The grade doesn't change."
+  "Scan from the app: GrailCrest finds your scanner and scans at the right settings (600 dpi, colour, whole glass) with Scan front / Scan back, or Scan now while grading as you scan. No scanner software settings needed (Windows)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.16/resources.neu",
-  "size": 17173067,
-  "sha256": "edb3bbb7a0ab8943bd78afdc4b48e1ee67703fcf4f48ce7e6db01a1b9ef11ac5"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.17/resources.neu",
+  "size": 17182953,
+  "sha256": "c109c683d11d645b10436f987449aaf02960cc81dc710eca46a3b3d2b3936aaa"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "8iz2aqy3ypKfiMY6+c2FkVpixbYhiJxbDza8v8HRM+lzeflUbsTzcoJlv35ezqReE2qBKEM7Wui6z/UoMVnp4g=="
+ "sig": "1kkznfBwmDdTsBJ2/ODk8T9wozBY0dwypFKsIjVm+kzCWEwrwttj/moug0+ycXfChZ505eeZyssiyfmlh89UBw=="
 }
