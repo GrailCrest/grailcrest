@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.25",
+ "version": "1.36.26",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Teach the AI: a Leave this card out button for bad scans (cut off at the edge of the glass, blurry, or scanned again)."
+  "Teach the AI shows each card's name and pictures (from History), so you can see which card you're teaching."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.25/resources.neu",
-  "size": 17241882,
-  "sha256": "384d7c099970d9c4687b24fdd4abffa5a26097c19afdb991fe380124e671289f"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.26/resources.neu",
+  "size": 17242620,
+  "sha256": "a23dc7149547f26acf4cf816abdb55baeb00aeaca9e2a3f9bf967f7fa882dbfb"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "Ebu2E4hdib0wvwOxaYxyO7J9b4mj6g06oIUW+9ELskTm3SHgIqgOuafCxVd5/F/GAyOTdeTYB3h/cEOeoAlKlQ=="
+ "sig": "o8a9b0yX8ZNergxepa5AAhCtyxBpipPZFkVlG46Ze8Gg8WyaTF4Lcv5B/B+MPoa/JySeFJS5a4y0psY1+FS6HQ=="
 }
