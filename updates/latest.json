@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.17",
+ "version": "1.36.18",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Scan from the app: GrailCrest finds your scanner and scans at the right settings (600 dpi, colour, whole glass) with Scan front / Scan back, or Scan now while grading as you scan. No scanner software settings needed (Windows)."
+  "Scan from the app: sturdier scanning (a second way to get the picture from the scanner), and a scan error now stays on screen and says where it stopped."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.17/resources.neu",
-  "size": 17182953,
-  "sha256": "c109c683d11d645b10436f987449aaf02960cc81dc710eca46a3b3d2b3936aaa"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.18/resources.neu",
+  "size": 17184063,
+  "sha256": "4894f08d137d427f8c275de21e9b9b9877dae4780b26198a1a2baeedb81df57b"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "1kkznfBwmDdTsBJ2/ODk8T9wozBY0dwypFKsIjVm+kzCWEwrwttj/moug0+ycXfChZ505eeZyssiyfmlh89UBw=="
+ "sig": "UPF/9XfAii3E5x6dfA/frnxFJC3bmabu4zB+PNpNU6HHjEPPwo9J35JPaeGZ7Pd/UT00wmHr4Y1Hwyax534c+g=="
 }
