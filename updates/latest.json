@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.28",
+ "version": "1.36.29",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Teach the AI: hover a corner or edge to see all of it twice as big. An edge is laid flat in rows, and the spot under your pointer is outlined in pink. Card names no longer go missing when you teach right after scanning."
+  "Teach the AI: hover a corner to see just the rounded corner, up to 4 times its size, with the spot under your pointer outlined in pink."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.28/resources.neu",
-  "size": 17245379,
-  "sha256": "7ecdd6f9bf59cb5dd2a2e839d335055210f88684c095a52d5791a94e39b285a2"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.29/resources.neu",
+  "size": 17246086,
+  "sha256": "658d6ce462ee7b41fc9cd5510ff7127f7425ce02051fb9ceb0aea4513001a623"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "02ch3dRmMl52KRMn37z4pMB0bNd48IsbE62I6H/lm8r/uY1ZDWBCg7cRR5FWsdIcJTW+MdXFf7x0l9WyRhCGgg=="
+ "sig": "H+IBwTN5JsBB9MGQPR/6s9AIr8tmz7Xuo7dONjtovGrNjTM0cfQF7t1AWLQHlgb/zsDfUKdf0val7A9z2d/PKQ=="
 }
