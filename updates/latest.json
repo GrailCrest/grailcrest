@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.23",
+ "version": "1.36.24",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Cards scanned from the app are recognized and named again (their file names had been taken as the name). A Canon scanner that refuses now says to check its lock switch."
+  "New: Teach the AI tab. All 16 close-ups of a card on one page: tap the worn corners and edges, then Save and next. Cards the app wasn't sure of come first."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.23/resources.neu",
-  "size": 17223705,
-  "sha256": "443bd674a3356009dc4d4f053665a14392e674a6b2d4d9c895b53e89e4bd6ff6"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.24/resources.neu",
+  "size": 17240678,
+  "sha256": "77f1f48a570fb393265fc401400d783361c8db33f208d46acdd0aac4fd429e99"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "YOoGEYbQqsaOs8phd3dChQDbi1G1ObNx7GOlVgbvmbeUV1+vqhMh4+kkSdqjguhR7wTpGOIhLw7yE2ZAs1dMsg=="
+ "sig": "IUlr6dx4uYtEwdn1PX5Po0hXMpQO2yZbUZSU1y0csXhBZENyFYPYUZcQVAd3ZbCZAyCXlxKoOwkS5A+f+yVigA=="
 }
