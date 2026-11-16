@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.29",
+ "version": "1.36.30",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Teach the AI: hover a corner to see just the rounded corner, up to 4 times its size, with the spot under your pointer outlined in pink."
+  "Teach the AI: hovering a corner shows the whole corner again, like the small picture, up to 4 times its size."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.29/resources.neu",
-  "size": 17246086,
-  "sha256": "658d6ce462ee7b41fc9cd5510ff7127f7425ce02051fb9ceb0aea4513001a623"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.30/resources.neu",
+  "size": 17245845,
+  "sha256": "610bf62f89b8793773b98e4c3ea31714db77e55735a88d36ae2f43e35988ef91"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "H+IBwTN5JsBB9MGQPR/6s9AIr8tmz7Xuo7dONjtovGrNjTM0cfQF7t1AWLQHlgb/zsDfUKdf0val7A9z2d/PKQ=="
+ "sig": "LCipk1kVviAIGOu+F/Dllr1DYGX8pZPy6iRiZOCGjoMqDG8xbKGTZu8CcYSM4Vx8UNrj83UbfyJZofCzARIEJA=="
 }
