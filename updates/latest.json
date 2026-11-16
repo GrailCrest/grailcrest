@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.24",
+ "version": "1.36.25",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "New: Teach the AI tab. All 16 close-ups of a card on one page: tap the worn corners and edges, then Save and next. Cards the app wasn't sure of come first."
+  "Teach the AI: a Leave this card out button for bad scans (cut off at the edge of the glass, blurry, or scanned again)."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.24/resources.neu",
-  "size": 17240678,
-  "sha256": "77f1f48a570fb393265fc401400d783361c8db33f208d46acdd0aac4fd429e99"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.25/resources.neu",
+  "size": 17241882,
+  "sha256": "384d7c099970d9c4687b24fdd4abffa5a26097c19afdb991fe380124e671289f"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "IUlr6dx4uYtEwdn1PX5Po0hXMpQO2yZbUZSU1y0csXhBZENyFYPYUZcQVAd3ZbCZAyCXlxKoOwkS5A+f+yVigA=="
+ "sig": "Ebu2E4hdib0wvwOxaYxyO7J9b4mj6g06oIUW+9ELskTm3SHgIqgOuafCxVd5/F/GAyOTdeTYB3h/cEOeoAlKlQ=="
 }
