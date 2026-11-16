@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.20",
+ "version": "1.36.21",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Scan from the app: if the scanner cancels every way at once, GrailCrest tries again in its own small window, and a failed scan has a Details button that shows each way it tried."
+  "Scan from the app: adds the TWAIN way, the same way Canon's IJ Scan Utility and other scanner apps scan, for scanners whose Windows driver refuses."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.20/resources.neu",
-  "size": 17196451,
-  "sha256": "dfd4bd52e0ff85843b0822bf0bc5f865d4ccbe06138f9786279e00f501020d5e"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.21/resources.neu",
+  "size": 17222176,
+  "sha256": "e0801155898c91d6bafac9bff07bb5bc3e21323a560a428e0a4de9a19beed3a8"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "VGZKEP6ap5tbHee+7nmPgbIIVuQBQwEKD1Lk77YR34Mk/fVr7zxifyHjHctPAcE8B177nQjeQKYrItuJEdGypg=="
+ "sig": "EO/AAqxqaANZuSFWU2tI8b/ZAaa7Xiz4tiywlz0eXCotgGgZ9QJwDM3l9zEj8o051rr79YLV0jkPhHNbTpJEeA=="
 }
