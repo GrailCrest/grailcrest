@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.27",
+ "version": "1.36.28",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Several cards on one scan: each card now gets its own back when you turn the cards over where they lie (the cards left and right of the middle used to swap backs)."
+  "Teach the AI: hover a corner or edge to see all of it twice as big. An edge is laid flat in rows, and the spot under your pointer is outlined in pink. Card names no longer go missing when you teach right after scanning."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.27/resources.neu",
-  "size": 17242804,
-  "sha256": "07ca4847fe9e9adea9adbd929211ed7a008cd5ffad6e66b7812f357b162ac223"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.28/resources.neu",
+  "size": 17245379,
+  "sha256": "7ecdd6f9bf59cb5dd2a2e839d335055210f88684c095a52d5791a94e39b285a2"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "jB2Dow1VaV/UM8lVBYf9Z2734Zv37u6I4ZNg66R35ANRuzprT+nlJt645FPUEbvcKA+oOEvs5DlEFtz1DEdFQw=="
+ "sig": "02ch3dRmMl52KRMn37z4pMB0bNd48IsbE62I6H/lm8r/uY1ZDWBCg7cRR5FWsdIcJTW+MdXFf7x0l9WyRhCGgg=="
 }
