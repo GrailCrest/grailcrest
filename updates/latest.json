@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.19",
+ "version": "1.36.20",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Scan from the app: tries Windows Scan's way first (the way the Windows Scan app scans), then the older ways, and a failed scan now says which way failed and why, with Copy details."
+  "Scan from the app: if the scanner cancels every way at once, GrailCrest tries again in its own small window, and a failed scan has a Details button that shows each way it tried."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.19/resources.neu",
-  "size": 17193198,
-  "sha256": "096676470872d7cbc6d7e6859a37edf9507603fe89b5baab62d20b9f53146cea"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.20/resources.neu",
+  "size": 17196451,
+  "sha256": "dfd4bd52e0ff85843b0822bf0bc5f865d4ccbe06138f9786279e00f501020d5e"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "iLVrdwiG21wKbGivBkJwCF3fy6A97l2mzf6+AqytnNiKIJbmYwULJOhk0thLjIzlqFFMqCRAc876xYNu7fm2DA=="
+ "sig": "VGZKEP6ap5tbHee+7nmPgbIIVuQBQwEKD1Lk77YR34Mk/fVr7zxifyHjHctPAcE8B177nQjeQKYrItuJEdGypg=="
 }
