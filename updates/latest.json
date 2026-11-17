@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.30",
+ "version": "1.36.31",
  "date": "2026-11-16",
  "minShell": "6.10.0",
  "notes": [
-  "Teach the AI: hovering a corner shows the whole corner again, like the small picture, up to 4 times its size."
+  "Lemon Squeezy is no longer named in the key help: GrailCrest is sold through Gumroad."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.30/resources.neu",
-  "size": 17245845,
-  "sha256": "610bf62f89b8793773b98e4c3ea31714db77e55735a88d36ae2f43e35988ef91"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.31/resources.neu",
+  "size": 20952254,
+  "sha256": "e1804dd562bf26a23ce3a7b65a1cd9acdc875a7c5a9f782fb608dcf13ee50865"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "LCipk1kVviAIGOu+F/Dllr1DYGX8pZPy6iRiZOCGjoMqDG8xbKGTZu8CcYSM4Vx8UNrj83UbfyJZofCzARIEJA=="
+ "sig": "5EIcJo1H/7M7clSviFVDdtfdBJYb/saZ/ZFIOYjUMF2ruFOyJwUVko8mlyDoAs3Ez3GxiHJzZXmGdy+j+qioyw=="
 }
