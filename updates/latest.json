@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.37.1",
+ "version": "1.38.0",
  "date": "2026-11-17",
  "minShell": "6.10.0",
  "notes": [
-  "Surface: the pale bands printed in older yellow borders are no longer read as stains; borderless full arts no longer get border marks. Teach the AI now shows surface marks to sort."
+  "Whitening graded the way PSA, Beckett and CGC describe it: whitening you can see at normal size counts more, light whitening seen only up close counts less (a thin even white line along a back edge no longer reads as heavy wear). Notches on an edge still count."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.37.1/resources.neu",
-  "size": 21310510,
-  "sha256": "75089de90495b0a7031733e550f2827d968815b1fa84b460709373742e19bcc9"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.0/resources.neu",
+  "size": 21314715,
+  "sha256": "65c83fdec80da3c2eb60645f4a4293784f40bde155a8391c5fae7b7237f9e265"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "zkBWgY/jemRg5vL/p+N9URro+W1QgVsoycNF+1KtBnWNTZDJmbbB4hLWm3L5TN5bHCRIkamCjMU5p6QAjP3BfQ=="
+ "sig": "W4XPIZIQrz8TaGQyIGL8iMv6cmADMyVme6HftTmJfo3g1ZxGojFEXWvCSplbnYNchJjm7um3QEfHXEaUxHsuQw=="
 }
