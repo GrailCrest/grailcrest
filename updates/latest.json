@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.31",
- "date": "2026-11-16",
+ "version": "1.36.32",
+ "date": "2026-11-17",
  "minShell": "6.10.0",
  "notes": [
-  "Lemon Squeezy is no longer named in the key help: GrailCrest is sold through Gumroad."
+  "Corners and edges on scans on black are now also checked for light whitening: whitening the measuring missed can lower the grade a step, and glare or the scanner's grain no longer counts as wear."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.31/resources.neu",
-  "size": 20952254,
-  "sha256": "e1804dd562bf26a23ce3a7b65a1cd9acdc875a7c5a9f782fb608dcf13ee50865"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.32/resources.neu",
+  "size": 20952313,
+  "sha256": "ef80c1cb911a625b823f8b726d888f242c6f4cdf86ca26ad95f9c3967b985f6c"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "5EIcJo1H/7M7clSviFVDdtfdBJYb/saZ/ZFIOYjUMF2ruFOyJwUVko8mlyDoAs3Ez3GxiHJzZXmGdy+j+qioyw=="
+ "sig": "auIUqb75y+wkBnXsXH78cckbSBRP2tHmqVP3XpxsRttipXvslnUruj5bf++lcrqI4nL2E5BhlHSJK4QjUA3yiw=="
 }
