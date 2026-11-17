@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.36.32",
+ "version": "1.37.0",
  "date": "2026-11-17",
  "minShell": "6.10.0",
  "notes": [
-  "Corners and edges on scans on black are now also checked for light whitening: whitening the measuring missed can lower the grade a step, and glare or the scanner's grain no longer counts as wear."
+  "Centering is now double-checked by GrailCrest's own check: a frame line on the scanner's light band, on the far side of a name bar or inside the picture is moved to the printed frame, and on borderless full arts centering isn't counted against the grade. The Centering tab says when either happens."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.36.32/resources.neu",
-  "size": 20952313,
-  "sha256": "ef80c1cb911a625b823f8b726d888f242c6f4cdf86ca26ad95f9c3967b985f6c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.37.0/resources.neu",
+  "size": 21305925,
+  "sha256": "641143ad5901586102bfa00628a182d6387f7d9c769d04e03579c3763abfb566"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "auIUqb75y+wkBnXsXH78cckbSBRP2tHmqVP3XpxsRttipXvslnUruj5bf++lcrqI4nL2E5BhlHSJK4QjUA3yiw=="
+ "sig": "w84LukSJvV62IJLMpxUqvLSe2zvh7sQHUnBy7MWeuP4cJGdzWKQGfCwGneRGYvTOe4CMvF8ueTPubmGmyFE42w=="
 }
