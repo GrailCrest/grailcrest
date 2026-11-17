@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.37.0",
+ "version": "1.37.1",
  "date": "2026-11-17",
  "minShell": "6.10.0",
  "notes": [
-  "Centering is now double-checked by GrailCrest's own check: a frame line on the scanner's light band, on the far side of a name bar or inside the picture is moved to the printed frame, and on borderless full arts centering isn't counted against the grade. The Centering tab says when either happens."
+  "Surface: the pale bands printed in older yellow borders are no longer read as stains; borderless full arts no longer get border marks. Teach the AI now shows surface marks to sort."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.37.0/resources.neu",
-  "size": 21305925,
-  "sha256": "641143ad5901586102bfa00628a182d6387f7d9c769d04e03579c3763abfb566"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.37.1/resources.neu",
+  "size": 21310510,
+  "sha256": "75089de90495b0a7031733e550f2827d968815b1fa84b460709373742e19bcc9"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "w84LukSJvV62IJLMpxUqvLSe2zvh7sQHUnBy7MWeuP4cJGdzWKQGfCwGneRGYvTOe4CMvF8ueTPubmGmyFE42w=="
+ "sig": "zkBWgY/jemRg5vL/p+N9URro+W1QgVsoycNF+1KtBnWNTZDJmbbB4hLWm3L5TN5bHCRIkamCjMU5p6QAjP3BfQ=="
 }
