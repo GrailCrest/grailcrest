@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.38.2",
+ "version": "1.38.3",
  "date": "2026-11-19",
  "minShell": "6.10.0",
  "notes": [
-  "Gold and other coloured foil borders: bright spots of the foil along the edge (the same colour as the border, only brighter) are no longer counted as whitening. Real whitening is white, so it still counts."
+  "Special illustration, gallery and other full-art cards: tiny sparkles of a silver foil border at the edge, and bright parts of the picture that run to the edge, are no longer counted as whitening unless the edge really looks worn up close."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.2/resources.neu",
-  "size": 21320043,
-  "sha256": "8c54c4841d1c36ece544cb1d916ec614625ebe781452147a7c526d0b08cdba82"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.3/resources.neu",
+  "size": 21322711,
+  "sha256": "de02930606600650fbdc16e11884efdf71945519f123ba4114222f7455f41e1a"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "w0A1N/poPtV5x7d5XbhWGwi/nuQkNFej+U5HcukxSn2FaedDr4hi2nQevfYXMgLYUy4frXHXsp+IMkXxnxX7aQ=="
+ "sig": "AEQob1VtRh05FoznUWOZ4dAgbxyhFpinEP5RTLMEkhPnxzMfdht31+Pkn99ky2kU3dlUZAGHyw3ixncPzoZkNg=="
 }
