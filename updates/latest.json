@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.38.0",
- "date": "2026-11-17",
+ "version": "1.38.2",
+ "date": "2026-11-19",
  "minShell": "6.10.0",
  "notes": [
-  "Whitening graded the way PSA, Beckett and CGC describe it: whitening you can see at normal size counts more, light whitening seen only up close counts less (a thin even white line along a back edge no longer reads as heavy wear). Notches on an edge still count."
+  "Gold and other coloured foil borders: bright spots of the foil along the edge (the same colour as the border, only brighter) are no longer counted as whitening. Real whitening is white, so it still counts."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.0/resources.neu",
-  "size": 21314715,
-  "sha256": "65c83fdec80da3c2eb60645f4a4293784f40bde155a8391c5fae7b7237f9e265"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.2/resources.neu",
+  "size": 21320043,
+  "sha256": "8c54c4841d1c36ece544cb1d916ec614625ebe781452147a7c526d0b08cdba82"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "W4XPIZIQrz8TaGQyIGL8iMv6cmADMyVme6HftTmJfo3g1ZxGojFEXWvCSplbnYNchJjm7um3QEfHXEaUxHsuQw=="
+ "sig": "w0A1N/poPtV5x7d5XbhWGwi/nuQkNFej+U5HcukxSn2FaedDr4hi2nQevfYXMgLYUy4frXHXsp+IMkXxnxX7aQ=="
 }
