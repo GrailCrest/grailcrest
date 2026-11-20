@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.38.3",
+ "version": "1.39.0",
  "date": "2026-11-19",
  "minShell": "6.10.0",
  "notes": [
-  "Special illustration, gallery and other full-art cards: tiny sparkles of a silver foil border at the edge, and bright parts of the picture that run to the edge, are no longer counted as whitening unless the edge really looks worn up close."
+  "New: a TAG estimate beside PSA, Beckett and CGC, from TAG's own grading scale (TAG is stricter on back centering: 65/35 for a 10). When TAG's rules allow a 10 it says 9 with a 10 possible, because TAG checks much closer than a scan can."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.38.3/resources.neu",
-  "size": 21322711,
-  "sha256": "de02930606600650fbdc16e11884efdf71945519f123ba4114222f7455f41e1a"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.39.0/resources.neu",
+  "size": 21326051,
+  "sha256": "1c7d11dedf46adb3e668f906c107fd6dc211854e3d6a952f04479b8c368f9da3"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "AEQob1VtRh05FoznUWOZ4dAgbxyhFpinEP5RTLMEkhPnxzMfdht31+Pkn99ky2kU3dlUZAGHyw3ixncPzoZkNg=="
+ "sig": "buuOs5kNtbrbRZhklzYZYeAEmbo9V7BkkxL88RT0e1IkZSmNnouDfPok7H8/2SHiy60jhXpDyMaUKH1uF8OGtw=="
 }
