@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.39.0",
- "date": "2026-11-19",
+ "version": "1.40.0",
+ "date": "2026-11-20",
  "minShell": "6.10.0",
  "notes": [
-  "New: a TAG estimate beside PSA, Beckett and CGC, from TAG's own grading scale (TAG is stricter on back centering: 65/35 for a 10). When TAG's rules allow a 10 it says 9 with a 10 possible, because TAG checks much closer than a scan can."
+  "Scan every card on black now, full arts and dark frames too: GrailCrest checks a dark-edged front's outline against its back, so you no longer need a second scan on the white lid."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.39.0/resources.neu",
-  "size": 21326051,
-  "sha256": "1c7d11dedf46adb3e668f906c107fd6dc211854e3d6a952f04479b8c368f9da3"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.40.0/resources.neu",
+  "size": 21335042,
+  "sha256": "d54e051f6fc38dfc8297137f7f72381a767e384514cda90c8439fec4e29cccaa"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "buuOs5kNtbrbRZhklzYZYeAEmbo9V7BkkxL88RT0e1IkZSmNnouDfPok7H8/2SHiy60jhXpDyMaUKH1uF8OGtw=="
+ "sig": "HqubkxuV64QTeS6XGVkb0O5IggLjTVp0go/l1l1PQPkbMwYXSrU7zwB6MwcRhBott9hcbTR7qKnSYOUyKe46vA=="
 }
