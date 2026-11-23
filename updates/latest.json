@@ -1,16 +1,18 @@
 {
  "app": "card-grader",
- "version": "1.40.0",
- "date": "2026-11-20",
+ "version": "1.41.0",
+ "date": "2026-11-23",
  "minShell": "6.10.0",
  "notes": [
-  "Scan every card on black now, full arts and dark frames too: GrailCrest checks a dark-edged front's outline against its back, so you no longer need a second scan on the white lid."
+  "Standard is now a one-time purchase",
+  "The money tools (is it worth sending?, Deal check, the PSA submission list) are part of Pro",
+  "Commercial: report packs for more customer reports"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.40.0/resources.neu",
-  "size": 21335042,
-  "sha256": "d54e051f6fc38dfc8297137f7f72381a767e384514cda90c8439fec4e29cccaa"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.0/resources.neu",
+  "size": 21352220,
+  "sha256": "2a3d5bf96414924c8ba792278593a51dc76824205489c1fd57b945396a79167a"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "HqubkxuV64QTeS6XGVkb0O5IggLjTVp0go/l1l1PQPkbMwYXSrU7zwB6MwcRhBott9hcbTR7qKnSYOUyKe46vA=="
+ "sig": "yqk1Ks7nSwVumzMJzOmEV7n3U94IfpWKjvFz8ErSv7NxD0w0FCid6hhgaN6cCcx+4S1UBzJLhltsHH0jF6QV7w=="
 }
