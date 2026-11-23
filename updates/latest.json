@@ -1,18 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.0",
+ "version": "1.41.1",
  "date": "2026-11-23",
  "minShell": "6.10.0",
  "notes": [
-  "Standard is now a one-time purchase",
-  "The money tools (is it worth sending?, Deal check, the PSA submission list) are part of Pro",
-  "Commercial: report packs for more customer reports"
+  "Standard for life, Commercial and report pack keys now unlock the app"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.0/resources.neu",
-  "size": 21352220,
-  "sha256": "2a3d5bf96414924c8ba792278593a51dc76824205489c1fd57b945396a79167a"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.1/resources.neu",
+  "size": 21352388,
+  "sha256": "aeeade54d0f3599638f89083df382ae5be8f8dc272dc149cd2f5bc91823f1161"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "yqk1Ks7nSwVumzMJzOmEV7n3U94IfpWKjvFz8ErSv7NxD0w0FCid6hhgaN6cCcx+4S1UBzJLhltsHH0jF6QV7w=="
+ "sig": "Yv6RY79EaoasZgYkX+p93mimDu4VRgEV/kRaC90MtGAxETe+ly+vJB5gaEfXZ2OgihiFRwqnZrnzpBsYFMsdWg=="
 }
