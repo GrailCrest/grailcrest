@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.4",
+ "version": "1.41.5",
  "date": "2026-11-24",
  "minShell": "6.10.0",
  "notes": [
-  "Move a card's centering lines on the phone too: the change comes back to the computer"
+  "Photo viewer: pinch and drag no longer jump, the card stays in view, centering dots easier to grab"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.4/resources.neu",
-  "size": 21377321,
-  "sha256": "b3faf4dd6bebac2c37c11f195b011ed5e5c09a19c17cecff479fe14d2875cd4c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.5/resources.neu",
+  "size": 21378913,
+  "sha256": "e5e7b13df80db2923ed3c47283943fc15881a4f1849e4980a49ec3592994346a"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "MOGNzayWeIw5GWJZ1/CzKbB/SaarWjZBkLvaOSelaZsx9mNKQrO/UWuagep07Z3UsM+3o4BBn7pKHgyWLNGnVQ=="
+ "sig": "GCetON9OcgH8HCEFbQ/UPdDXu7h7/qfIbNax5eRMCNsK7Ur/4s2i2dj0YZcLggDY9YVel/bSPGyuhLCuI9gpZA=="
 }
