@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.6",
+ "version": "1.41.7",
  "date": "2026-11-24",
  "minShell": "6.10.0",
  "notes": [
-  "Faster grading: same grades, less waiting"
+  "Fixes the app sitting on 'Grading the back ... Done' when the next card is started"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.6/resources.neu",
-  "size": 21382684,
-  "sha256": "b6a5fe0c64b12c325b559a87ce176cb77ef498f62a750c756b3cd7fff2a7bd8c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.7/resources.neu",
+  "size": 21383989,
+  "sha256": "84a4a4480d49ee32f78e5dd6c7125986644bda4c89a347066fda06ab7619aeda"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "AI4gUpuKpVzm2wEtU8KYVXIBI+HNrzNjzuWTB6pHNSt4aifUe6RR0n2u3SZxoEnWUBh9G/YEycWP0NnEmcmRWA=="
+ "sig": "+xdrGlW+9QsoIvv/gMOf+lXB2dsEcCNiYVcaEBffOF8RYliFYeSDUWVJj0UVPhUnaTQYSFxsJCC8fvCXnPHhpw=="
 }
