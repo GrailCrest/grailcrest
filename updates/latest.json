@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.3",
- "date": "2026-11-23",
+ "version": "1.41.4",
+ "date": "2026-11-24",
  "minShell": "6.10.0",
  "notes": [
-  "1.41.3: the price box names a card's 30th Celebration / Celebrations reprint when it shows the original's prices, with one click to switch"
+  "Move a card's centering lines on the phone too: the change comes back to the computer"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.3/resources.neu",
-  "size": 21367548,
-  "sha256": "13413db7a62a6f382fceb86d2a95075549b3bdcb74cb6cdf7288193e3e21820c"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.4/resources.neu",
+  "size": 21377321,
+  "sha256": "b3faf4dd6bebac2c37c11f195b011ed5e5c09a19c17cecff479fe14d2875cd4c"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "miQgTov4zTnI9YQJSqYNY3BJBf6gs3a+SlC80AIc9ES090pdKiqUv5l0T3IK2KbJPZ+wVH13icJczbBzuLC7TA=="
+ "sig": "MOGNzayWeIw5GWJZ1/CzKbB/SaarWjZBkLvaOSelaZsx9mNKQrO/UWuagep07Z3UsM+3o4BBn7pKHgyWLNGnVQ=="
 }
