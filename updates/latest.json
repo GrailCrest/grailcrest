@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.7",
+ "version": "1.41.8",
  "date": "2026-11-24",
  "minShell": "6.10.0",
  "notes": [
-  "Fixes the app sitting on 'Grading the back ... Done' when the next card is started"
+  "1.41.8: the Classic Collection reprint switch also shows on saved cards without a kept price lookup"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.7/resources.neu",
-  "size": 21383989,
-  "sha256": "84a4a4480d49ee32f78e5dd6c7125986644bda4c89a347066fda06ab7619aeda"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.8/resources.neu",
+  "size": 21386426,
+  "sha256": "6244fddee368559f7d536400f242164b73fe337f1203ac63db73fab71967bb70"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "+xdrGlW+9QsoIvv/gMOf+lXB2dsEcCNiYVcaEBffOF8RYliFYeSDUWVJj0UVPhUnaTQYSFxsJCC8fvCXnPHhpw=="
+ "sig": "r/ycbge4HFr+gTFfeqYhL7BxhkzxhNKKFJa91Oxwh5nJhaQsNVvgzYdPaOtr6DrWiwCqwpYV1f+sOCZcYntaLg=="
 }
