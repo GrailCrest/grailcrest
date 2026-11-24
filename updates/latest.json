@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.1",
+ "version": "1.41.2",
  "date": "2026-11-23",
  "minShell": "6.10.0",
  "notes": [
-  "Standard for life, Commercial and report pack keys now unlock the app"
+  "Phone cards that came out 'Not a grade yet' (photos showed too few corners and edges) now show '?' on the computer too, instead of the phone's guess."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.1/resources.neu",
-  "size": 21352388,
-  "sha256": "aeeade54d0f3599638f89083df382ae5be8f8dc272dc149cd2f5bc91823f1161"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.2/resources.neu",
+  "size": 21355608,
+  "sha256": "591254184bc6f2d3afdde2001317d71efb3f8ccadd4781d78e15e4c739a44531"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "Yv6RY79EaoasZgYkX+p93mimDu4VRgEV/kRaC90MtGAxETe+ly+vJB5gaEfXZ2OgihiFRwqnZrnzpBsYFMsdWg=="
+ "sig": "JuPEgZqz8WP5Tb1jrBQu/OALM+yTl9Fo0TSeNG6urzRaWalQ1qwmir8Lu654UG/PFYzDrq3x941Luqj+08ugwg=="
 }
