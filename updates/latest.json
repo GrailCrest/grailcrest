@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.2",
+ "version": "1.41.3",
  "date": "2026-11-23",
  "minShell": "6.10.0",
  "notes": [
-  "Phone cards that came out 'Not a grade yet' (photos showed too few corners and edges) now show '?' on the computer too, instead of the phone's guess."
+  "1.41.3: the price box names a card's 30th Celebration / Celebrations reprint when it shows the original's prices, with one click to switch"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.2/resources.neu",
-  "size": 21355608,
-  "sha256": "591254184bc6f2d3afdde2001317d71efb3f8ccadd4781d78e15e4c739a44531"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.3/resources.neu",
+  "size": 21367548,
+  "sha256": "13413db7a62a6f382fceb86d2a95075549b3bdcb74cb6cdf7288193e3e21820c"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "JuPEgZqz8WP5Tb1jrBQu/OALM+yTl9Fo0TSeNG6urzRaWalQ1qwmir8Lu654UG/PFYzDrq3x941Luqj+08ugwg=="
+ "sig": "miQgTov4zTnI9YQJSqYNY3BJBf6gs3a+SlC80AIc9ES090pdKiqUv5l0T3IK2KbJPZ+wVH13icJczbBzuLC7TA=="
 }
