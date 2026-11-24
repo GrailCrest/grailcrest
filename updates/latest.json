@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.5",
+ "version": "1.41.6",
  "date": "2026-11-24",
  "minShell": "6.10.0",
  "notes": [
-  "Photo viewer: pinch and drag no longer jump, the card stays in view, centering dots easier to grab"
+  "Faster grading: same grades, less waiting"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.5/resources.neu",
-  "size": 21378913,
-  "sha256": "e5e7b13df80db2923ed3c47283943fc15881a4f1849e4980a49ec3592994346a"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.6/resources.neu",
+  "size": 21382684,
+  "sha256": "b6a5fe0c64b12c325b559a87ce176cb77ef498f62a750c756b3cd7fff2a7bd8c"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "GCetON9OcgH8HCEFbQ/UPdDXu7h7/qfIbNax5eRMCNsK7Ur/4s2i2dj0YZcLggDY9YVel/bSPGyuhLCuI9gpZA=="
+ "sig": "AI4gUpuKpVzm2wEtU8KYVXIBI+HNrzNjzuWTB6pHNSt4aifUe6RR0n2u3SZxoEnWUBh9G/YEycWP0NnEmcmRWA=="
 }
