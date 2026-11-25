@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.41.8",
- "date": "2026-11-24",
+ "version": "1.42.0",
+ "date": "2026-11-25",
  "minShell": "6.10.0",
  "notes": [
-  "1.41.8: the Classic Collection reprint switch also shows on saved cards without a kept price lookup"
+  "Dark look everywhere: the Theme button is gone and the app is always dark. Printing stays dark text on white paper."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.41.8/resources.neu",
-  "size": 21386426,
-  "sha256": "6244fddee368559f7d536400f242164b73fe337f1203ac63db73fab71967bb70"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.42.0/resources.neu",
+  "size": 21393251,
+  "sha256": "8fdc54ea7208b25add86397fc39c39f320791ec2e34e02bb870b4b458a241392"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "r/ycbge4HFr+gTFfeqYhL7BxhkzxhNKKFJa91Oxwh5nJhaQsNVvgzYdPaOtr6DrWiwCqwpYV1f+sOCZcYntaLg=="
+ "sig": "BpgCNIYlv3UurLxK9HFHQ5DsoW+NedmBjH/FpbIbYmFMEQWoDE3Cdj0gROrXcfiZF6GIYulY4BKzZ3FMKn+tpg=="
 }
