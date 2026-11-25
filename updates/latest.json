@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.42.0",
+ "version": "1.43.0",
  "date": "2026-11-25",
  "minShell": "6.10.0",
  "notes": [
-  "Dark look everywhere: the Theme button is gone and the app is always dark. Printing stays dark text on white paper."
+  "A cleaner card page: the grade first, one yellow button, and the page fits any window. Set up, How to scan, How grading works and the tour are under Help."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.42.0/resources.neu",
-  "size": 21393251,
-  "sha256": "8fdc54ea7208b25add86397fc39c39f320791ec2e34e02bb870b4b458a241392"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.43.0/resources.neu",
+  "size": 21406283,
+  "sha256": "3a434dee76a9b82ddce2e18f11b0a74a8994cb74fb005cff03b37fba02809ab6"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "BpgCNIYlv3UurLxK9HFHQ5DsoW+NedmBjH/FpbIbYmFMEQWoDE3Cdj0gROrXcfiZF6GIYulY4BKzZ3FMKn+tpg=="
+ "sig": "0SVqmaLzui9Vt/0v25nl3yXTQMt3qsHBR4o4Cgqqpkby0nmKCOSiewLvJ7NxxUMZRRPcXnfyYBh3nktl1aGqhw=="
 }
