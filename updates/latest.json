@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.0",
+ "version": "1.44.1",
  "date": "2026-11-26",
  "minShell": "6.10.0",
  "notes": [
-  "Full-art cards with a textured or foil frame: a centering line that may sit on the picture no longer counts against the grade until you check it"
+  "Where the wear is: the card's pictures with the flaws marked, next to what holds it back. Etched foil borders no longer read as whitening. Reprints: tells the 25th and 30th anniversary stamps apart. New MEP promos named."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.0/resources.neu",
-  "size": 21416759,
-  "sha256": "7f2c85644ad5171244a9ed70cf060fabeae92ec37af4e825e35b92c24373a1af"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.1/resources.neu",
+  "size": 21427328,
+  "sha256": "ca5e64871e3510d31a621878f9b74dc1863658fdc16218a2f28ce68b20ac8acb"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "36j7QQ5UqRFtQ+yVnwKiQ2T/kcAQPEpTuHddN0Qt/V8pl14YuAFJX6VG/Q8Bi5MMOz0BukoMM2FbGAzJF2Kt5A=="
+ "sig": "pWt+ef1bc9z+5QntxSgmtEqUgRclwUNeSteFfQmcYqfl7sK7Hqq0HncPEQf3mEiY11a9v01a1bcZwRqsYPNgaQ=="
 }
