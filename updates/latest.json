@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.2",
+ "version": "1.44.3",
  "date": "2026-11-26",
  "minShell": "6.10.0",
  "notes": [
-  "Faster grading checks (same grades); engine 1.50.0"
+  "Centering notes and phone-photo centering fixes; engine 1.51.0"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.2/resources.neu",
-  "size": 21431515,
-  "sha256": "c626b6fe09290dff0ecb544b5db0fce189e7cdb693b7251f4aa989a96a356b52"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.3/resources.neu",
+  "size": 21435964,
+  "sha256": "ab8ba55b8e1fc3b8041355d5e4c4d6412198e08e3e96092e7bdccc7ae97e7e6f"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "RsqZq3EejvSVg6iMfTnivx/SAgpVegtz/75TRb8syvStR81HmGK65cYCL/8fM9im35bZZAanEbW4wHvTlZu7XA=="
+ "sig": "hnQsRMMXZBBVzw3X7fROGNpxadGel2o7lIOdNtlFJr25APBla9sqGPBGNfNAaCndUgT7qpxxVb6GgeIfr8iRRg=="
 }
