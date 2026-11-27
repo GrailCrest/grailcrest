@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.7",
+ "version": "1.44.8",
  "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode: open each customer's card again to check its surface, and see their report itself. No false 'not real' warning when a card touches the edge of the scan."
+  "Show mode keeps every customer's cards safely: each card saved on its own, so a big day can't fill up memory or lose the list."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.7/resources.neu",
-  "size": 21472842,
-  "sha256": "1117544a3be51a815d4c974b3683c11405034ab291dfd83141ad8c4c2071f6a6"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.8/resources.neu",
+  "size": 21475061,
+  "sha256": "1840f31a1c087097adf0d9268ee1400e3c0161670e9fa125dcee579bf8e8603e"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "zRDSwtdDXgvKlh47sIXRcWCLezwkfWmvZ4cjTlPpz/hyCIHzh+hlBmS49iV1ZDjZFaPb0jxA/aLucvA1qQ/gxA=="
+ "sig": "vm5SeAcbA3dfrERrLJBmaf1ss9R1xVs9ehANWO83nNrVWs4uitrbT3C3uvSq/L4VYQKtp9z7mHg+A32k6wfCfg=="
 }
