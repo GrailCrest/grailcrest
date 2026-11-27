@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.6",
+ "version": "1.44.7",
  "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "Phone-photo grades for played cards, a faster My collection with many cards, smoother card pages. Grades from scans are unchanged."
+  "Show mode: open each customer's card again to check its surface, and see their report itself. No false 'not real' warning when a card touches the edge of the scan."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.6/resources.neu",
-  "size": 21465848,
-  "sha256": "2bf6bfffc32ad3c4baefc8100566ad237bbf0711826b601becbdea578912f2cb"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.7/resources.neu",
+  "size": 21472842,
+  "sha256": "1117544a3be51a815d4c974b3683c11405034ab291dfd83141ad8c4c2071f6a6"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "zVLZcDEV0E/M//5TMOXwDKN3/uF7xuep8n8k7OMAUfMTv4cVGjtqEJeJogN9l+hUtmAgjw0IcD4wTgdfDUNUyQ=="
+ "sig": "zRDSwtdDXgvKlh47sIXRcWCLezwkfWmvZ4cjTlPpz/hyCIHzh+hlBmS49iV1ZDjZFaPb0jxA/aLucvA1qQ/gxA=="
 }
