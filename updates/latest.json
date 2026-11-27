@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.5",
+ "version": "1.44.6",
  "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "Smoother on slow computers and phones: the card-name reader's pictures and the surface views are made in the background. The grade is unchanged."
+  "Phone-photo grades for played cards, a faster My collection with many cards, smoother card pages. Grades from scans are unchanged."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.5/resources.neu",
-  "size": 21458723,
-  "sha256": "a6b6bdb9fb0b9ead7d14d46b71b4d63516ecfe08f5e2bc47d56ddf608ab8bc73"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.6/resources.neu",
+  "size": 21465848,
+  "sha256": "2bf6bfffc32ad3c4baefc8100566ad237bbf0711826b601becbdea578912f2cb"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "qc3OAp/T1Zul8HH+sG6wiaLmSk3ziMUSxZ6hhOhmV1A5WnCKEZDJgztGQee4c8uL4O3wY9lO+3idoOMY9mTtMQ=="
+ "sig": "zVLZcDEV0E/M//5TMOXwDKN3/uF7xuep8n8k7OMAUfMTv4cVGjtqEJeJogN9l+hUtmAgjw0IcD4wTgdfDUNUyQ=="
 }
