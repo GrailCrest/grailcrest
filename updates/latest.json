@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.3",
- "date": "2026-11-26",
+ "version": "1.44.4",
+ "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "Centering notes and phone-photo centering fixes; engine 1.51.0"
+  "Anniversary stamp figures pick the right reprint, TAG estimate in customer reports and spreadsheets, uncounted centering lines shown faded"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.3/resources.neu",
-  "size": 21435964,
-  "sha256": "ab8ba55b8e1fc3b8041355d5e4c4d6412198e08e3e96092e7bdccc7ae97e7e6f"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.4/resources.neu",
+  "size": 21446396,
+  "sha256": "7691848a8fb4d1e6cf5d6339e41ce6f2c420b2e3be985d42a5cace13d500ecda"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "hnQsRMMXZBBVzw3X7fROGNpxadGel2o7lIOdNtlFJr25APBla9sqGPBGNfNAaCndUgT7qpxxVb6GgeIfr8iRRg=="
+ "sig": "54INo9NTJSLA3DcjJJafkCShdS5VDnZFpIeIFL+2zQHBdVxStXj+OgjfRy15SXCe0hUCSdU7ABlO/ENu7hqjPg=="
 }
