@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.9",
+ "version": "1.44.10",
  "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "History kept in pieces so big collections keep saving (the desktop storage can't take one write over 32 MB)"
+  "Price lookups kept within the computer's storage limit, card-name reader notes for problem reports"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.9/resources.neu",
-  "size": 21482332,
-  "sha256": "c1653118f0e4c0fbfc8b6dc05fd4365e4173450c4a6b75cb13b2643e750e2942"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.10/resources.neu",
+  "size": 21483019,
+  "sha256": "4bc76daa9f1169db6c91f9a2775bcd9c739ba8ecd0f8dd29a443d691c9bf323e"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "of7nvLTP3klgO1eulApDpVgDRa64e2IyVcRd2X2H9AVwy16o6tVt71vnK44X/AYzaoJ0cORgD4IRbInaFf6Wtw=="
+ "sig": "NDn8TqwhJH5+7BW4afJFxakHUhWvzGFqRDeX6azboUdRCmptbQJI31aVNmeiog7/R4NIY/0qJP20RMd+X59PQg=="
 }
