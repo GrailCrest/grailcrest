@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.8",
+ "version": "1.44.9",
  "date": "2026-11-27",
  "minShell": "6.10.0",
  "notes": [
-  "Show mode keeps every customer's cards safely: each card saved on its own, so a big day can't fill up memory or lose the list."
+  "History kept in pieces so big collections keep saving (the desktop storage can't take one write over 32 MB)"
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.8/resources.neu",
-  "size": 21475061,
-  "sha256": "1840f31a1c087097adf0d9268ee1400e3c0161670e9fa125dcee579bf8e8603e"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.9/resources.neu",
+  "size": 21482332,
+  "sha256": "c1653118f0e4c0fbfc8b6dc05fd4365e4173450c4a6b75cb13b2643e750e2942"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "vm5SeAcbA3dfrERrLJBmaf1ss9R1xVs9ehANWO83nNrVWs4uitrbT3C3uvSq/L4VYQKtp9z7mHg+A32k6wfCfg=="
+ "sig": "of7nvLTP3klgO1eulApDpVgDRa64e2IyVcRd2X2H9AVwy16o6tVt71vnK44X/AYzaoJ0cORgD4IRbInaFf6Wtw=="
 }
