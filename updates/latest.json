@@ -1,16 +1,16 @@
 {
  "app": "card-grader",
- "version": "1.44.10",
- "date": "2026-11-27",
+ "version": "1.45.0",
+ "date": "2026-11-28",
  "minShell": "6.10.0",
  "notes": [
-  "Price lookups kept within the computer's storage limit, card-name reader notes for problem reports"
+  "GrailCrest 1.45.0: Share picture (a picture of the card and its estimate to post), cards like this one (what similar cards came back as), eBay and Shopify listing files (Pro), your shop's logo on customer reports (Commercial), set tracker and wishlist in My collection."
  ],
  "bundle": {
-  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.44.10/resources.neu",
-  "size": 21483019,
-  "sha256": "4bc76daa9f1169db6c91f9a2775bcd9c739ba8ecd0f8dd29a443d691c9bf323e"
+  "url": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/updates/1.45.0/resources.neu",
+  "size": 21550913,
+  "sha256": "1d6e9776f408f61b4af30841db883d77aa5d4baab33e1ff3620afdf7b3c37431"
  },
  "installer": "https://raw.githubusercontent.com/GrailCrest/grailcrest/main/downloads/GrailCrest-Setup.exe",
- "sig": "NDn8TqwhJH5+7BW4afJFxakHUhWvzGFqRDeX6azboUdRCmptbQJI31aVNmeiog7/R4NIY/0qJP20RMd+X59PQg=="
+ "sig": "ldSGsRR7nN2WEhs4IOWsXtEaoXQwljwMLNQ1QIsBQrn4EnlFf7rZ0/sgqDvVrLDZOesvdWMT0u9jfCK9K6Lfbw=="
 }
